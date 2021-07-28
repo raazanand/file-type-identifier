@@ -1,0 +1,117 @@
+
+File	: Main.java
+ 
+Category	: Developer File
+ 
+Type		: Java Source Code File
+ 
+Description	: A JAVA file is a source code file written in the Java programming language, which was originally developed by Sun Microsystems but is now maintained by Oracle.  It uses an object-oriented approach, where structured data types, called classes, are used to instantiate objects at runtime.
+ 
+Programs	: File Viewer Plus, Oracle Java Virtual Machine, Eclipse IDE for Java Developers, Google Android Studio, Oracle NetBeans, Xinox JCreator, ES-Computing EditPlus, Microsoft Notepad, gVim, Other text editor, Apple Xcode, MacroMates TextMate, MacVim, javac, GNU Emacs, Vi, File Viewer for Android
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: Python.py
+ 
+Category	: Developer File
+ 
+Type		: Python Script
+ 
+Description	: A PY file is a program file or script written in Python, an interpreted object-oriented programming language.  It can be created and edited with a text editor, but requires a Python interpreter to run.  PY files are often used for programming web servers and other administrative computer systems.
+ 
+Programs	: File Viewer Plus, Python Software Foundation Python, Microsoft Notepad, Notepad++, Sublime Text, Other text editor, MacroMates TextMate, GNU Emacs, gedit, File Viewer for Android
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: program.CPP
+ 
+Category	: Developer File
+ 
+Type		: C++ Source Code File
+ 
+Description	: A CPP file is a source code file written in C++, a popular programming language that adds features such as object-oriented programming to C.  It may be a standalone program, containing all the code or one of many files referenced in a development project.  CPP files must be compiled by a C++ compiler for the target platform before the code can be run.
+ 
+Programs	: File Viewer Plus, Microsoft Visual Studio 2017, Microsoft Visual Studio Code, Eclipse CDT, Code::Blocks, Embarcadero Technologies C++ Builder, ES-Computing EditPlus, BloodshedSoftware Dev-C++, Apple Xcode, GNU Compiler Collection (GCC), MacroMates TextMate, Freescale CodeWarrior Development Tools, File Viewer for Android
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: tinplated.CCP
+ 
+Category	: Developer File
+ 
+Type		: CodeCharge Studio Page File
+ 
+Description	: File created by CopperCube, a 3D app, game, and website editing application; contains a prefabricated object that can be entered into your 3D scene; also contains links to .JPG and .PNG graphic files that create the appearance of the objects; similar to the .PREFAB Unity File.
+ 
+Programs	: Ambiera CopperCube 5, YesSoftware CodeCharge Studio, RIB iTWO
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: file.PDF
+ 
+Category	: Portable Document Format
+ 
+Type		: application\/pdf
+ 
+Description	: N/A
+ 
+Programs	: N/A
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: text.txt
+ 
+Category	: Text File
+ 
+Type		: Plain Text File
+ 
+Description	: A TXT file is a standard text document that contains unformatted text.  It is recognized by any text editing or word processing program and can also be processed by most other software programs.  TXT files are often created and opened using Microsoft Notepad and Apple TextEdit.
+ 
+Programs	: File Viewer Plus, Microsoft Notepad, Microsoft WordPad, Microsoft Word 2019, Corel WordPerfect X9, Helios TextPad, Notepad++, Notepad2, Geany, Other text editor, Apple TextEdit, Bare Bones BBEdit, MacroMates TextMate, Wondershare PDF Editor for Mac 5, Leafpad, gedit, KWrite, MobiSystems OfficeSuite Pro, olimsoft OPlayer, Infraware Polaris Office, File Viewer for Android, Kingsoft WPS Office for Android, Rhythm Software QuickEdit text editor, Aquamarine Networks Jota Text Editor, JellyBeanUser Text editor
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: xyz.XCODEPROJ
+ 
+Category	: Developer File
+ 
+Type		: Xcode Project
+ 
+Description	: An XCODEPROJ file is a macOS or iOS software development project created with Apple's Xcode programming software.  It contains project configuration data and links to files referenced by the project.
+ 
+Programs	: Apple Xcode
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: photoshop.psd
+ 
+Category	: Photoshop Image
+ 
+Type		: image\/vnd.adobe.photoshop
+ 
+Description	: N/A
+ 
+Programs	: N/A
+ 
+============================================================================================================================================================================================================
+ 
+
+File	: parser.xml
+ 
+Category	: Extensible Markup Language
+ 
+Type		: application\/xml
+ 
+Description	: N/A
+ 
+Programs	: N/A
+ 
+============================================================================================================================================================================================================
+ 

@@ -1,0 +1,7616 @@
+[
+  {
+    ".ez": {
+      "fileProInfoType": "application\\/andrew-inset",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aw": {
+      "fileProInfoType": "application\\/applixware",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".iso19139": {
+      "fileProInfoType": "text\\/iso19139+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".atom": {
+      "fileProInfoType": "application\\/atom+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".atomcat": {
+      "fileProInfoType": "application\\/atomcat+xml",
+      "fileProInfoComment": "N/a"
+    }
+  },
+  {
+    ".atomsvc": {
+      "fileProInfoType": "application\\/atomsvc+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bat": {
+      "fileProInfoType": "application\\/x-bat",
+      "fileProInfoComment": "Windows Batch \\/ Command File"
+    }
+  },
+  {
+    ".cmd": {
+      "fileProInfoType": "application\\/x-bat",
+      "fileProInfoComment": "Windows Batch \\/ Command File"
+    }
+  },
+  {
+    ".bpm": {
+      "fileProInfoType": "application\\/bizagi-modeler",
+      "fileProInfoComment": "BizAgi Process Modeler"
+    }
+  },
+  {
+    ".cbor": {
+      "fileProInfoType": "application\\/cbor",
+      "fileProInfoComment": "Concise Binary Object Representation container"
+    }
+  },
+  {
+    ".ccxml": {
+      "fileProInfoType": "application\\/ccxml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cdr": {
+      "fileProInfoType": "application\\/coreldraw",
+      "fileProInfoComment": "CorelDraw"
+    }
+  },
+  {
+    ".cu": {
+      "fileProInfoType": "application\\/cu-seeme",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".davmount": {
+      "fileProInfoType": "application\\/davmount+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dbf": {
+      "fileProInfoType": "application\\/x-dbf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dbase": {
+      "fileProInfoType": "application\\/x-dbf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dbase3": {
+      "fileProInfoType": "application\\/x-dbf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ditamap": {
+      "fileProInfoType": "application\\/dita+xml;format=map",
+      "fileProInfoComment": "DITA Map"
+    }
+  },
+  {
+    ".dita": {
+      "fileProInfoType": "application\\/dita+xml;format=topic",
+      "fileProInfoComment": "DITA Topic"
+    }
+  },
+  {
+    ".ditaval": {
+      "fileProInfoType": "application\\/dita+xml;format=val",
+      "fileProInfoComment": "DITA Conditional Processing Profile"
+    }
+  },
+  {
+    ".ecma": {
+      "fileProInfoType": "application\\/ecmascript",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".emma": {
+      "fileProInfoType": "application\\/emma+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hdr": {
+      "fileProInfoType": "application\\/envi.hdr",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".epub": {
+      "fileProInfoType": "application\\/epub+zip",
+      "fileProInfoComment": "Electronic Publication"
+    }
+  },
+  {
+    ".fits": {
+      "fileProInfoType": "application\\/fits",
+      "fileProInfoComment": "Flexible Image Transport System"
+    }
+  },
+  {
+    ".fit": {
+      "fileProInfoType": "application\\/fits",
+      "fileProInfoComment": "Flexible Image Transport System"
+    }
+  },
+  {
+    ".fts": {
+      "fileProInfoType": "application\\/fits",
+      "fileProInfoComment": "Flexible Image Transport System"
+    }
+  },
+  {
+    ".pfr": {
+      "fileProInfoType": "application\\/font-tdpfr",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".stk": {
+      "fileProInfoType": "application\\/hyperstudio",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ai": {
+      "fileProInfoType": "application\\/illustrator",
+      "fileProInfoComment": "Adobe Illustrator Artwork"
+    }
+  },
+  {
+    ".jar": {
+      "fileProInfoType": "application\\/java-archive",
+      "fileProInfoComment": "Java Archive"
+    }
+  },
+  {
+    ".apk": {
+      "fileProInfoType": "application\\/vnd.android.package-archive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ear": {
+      "fileProInfoType": "application\\/x-tika-java-enterprise-archive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".war": {
+      "fileProInfoType": "application\\/x-tika-java-web-archive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ser": {
+      "fileProInfoType": "application\\/java-serialized-object",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".js": {
+      "fileProInfoType": "application\\/javascript",
+      "fileProInfoComment": "JavaScript Source Code"
+    }
+  },
+  {
+    ".json": {
+      "fileProInfoType": "application\\/json",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".class": {
+      "fileProInfoType": "application\\/java-vm",
+      "fileProInfoComment": "Java Class File"
+    }
+  },
+  {
+    ".jnilib": {
+      "fileProInfoType": "application\\/x-java-jnilib",
+      "fileProInfoComment": "Java Native Library for OSX"
+    }
+  },
+  {
+    ".lostxml": {
+      "fileProInfoType": "application\\/lost+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hqx": {
+      "fileProInfoType": "application\\/mac-binhex40",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cpt": {
+      "fileProInfoType": "application\\/mac-compactpro",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mrc": {
+      "fileProInfoType": "application\\/marc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ma": {
+      "fileProInfoType": "application\\/mathematica",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nb": {
+      "fileProInfoType": "application\\/mathematica",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mb": {
+      "fileProInfoType": "application\\/mathematica",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mathml": {
+      "fileProInfoType": "application\\/mathml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mbox": {
+      "fileProInfoType": "application\\/mbox",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mscml": {
+      "fileProInfoType": "application\\/mediaservercontrol+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mp4s": {
+      "fileProInfoType": "application\\/mp4",
+      "fileProInfoComment": "MP4 container format"
+    }
+  },
+  {
+    ".doc": {
+      "fileProInfoType": "application\\/msword",
+      "fileProInfoComment": "Microsoft Word Document"
+    }
+  },
+  {
+    ".dot": {
+      "fileProInfoType": "application\\/msword",
+      "fileProInfoComment": "Microsoft Word Document"
+    }
+  },
+  {
+    ".mxf": {
+      "fileProInfoType": "application\\/mxf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bin": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dms": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lha": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lrf": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lzh": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".so": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dist": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".distz": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pkg": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bpk": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dump": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".elc": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".deploy": {
+      "fileProInfoType": "application\\/octet-stream",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".oda": {
+      "fileProInfoType": "application\\/oda",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".opf": {
+      "fileProInfoType": "application\\/oebps-package+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ogx": {
+      "fileProInfoType": "application\\/ogg",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".onetmp": {
+      "fileProInfoType": "application\\/onenote",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".one": {
+      "fileProInfoType": "application\\/onenote;format=one",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".onetoc": {
+      "fileProInfoType": "application\\/onenote;format=onetoc2",
+      "fileProInfoComment": "OneNote Table of Contents"
+    }
+  },
+  {
+    ".onetoc2": {
+      "fileProInfoType": "application\\/onenote;format=onetoc2",
+      "fileProInfoComment": "OneNote Table of Contents"
+    }
+  },
+  {
+    ".onepkg": {
+      "fileProInfoType": "application\\/onenote; format=package",
+      "fileProInfoComment": "OneNote Package"
+    }
+  },
+  {
+    ".xer": {
+      "fileProInfoType": "application\\/patch-ops-error+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pdf": {
+      "fileProInfoType": "application\\/pdf",
+      "fileProInfoComment": "Portable Document Format"
+    }
+  },
+  {
+    ".pgp": {
+      "fileProInfoType": "application\\/pgp-encrypted",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".asc": {
+      "fileProInfoType": "application\\/pgp-signature",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sig": {
+      "fileProInfoType": "application\\/pgp-signature",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".prf": {
+      "fileProInfoType": "application\\/pics-rules",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".p10": {
+      "fileProInfoType": "application\\/pkcs10",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".p7m": {
+      "fileProInfoType": "application\\/pkcs7-mime",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".p7c": {
+      "fileProInfoType": "application\\/pkcs7-mime",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".p7s": {
+      "fileProInfoType": "application\\/pkcs7-signature",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tsd": {
+      "fileProInfoType": "application\\/timestamped-data",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cer": {
+      "fileProInfoType": "application\\/pkix-cert",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".crl": {
+      "fileProInfoType": "application\\/pkix-crl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pkipath": {
+      "fileProInfoType": "application\\/pkix-pkipath",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pki": {
+      "fileProInfoType": "application\\/pkixcmp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pls": {
+      "fileProInfoType": "application\\/pls+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ps": {
+      "fileProInfoType": "application\\/postscript",
+      "fileProInfoComment": "PostScript"
+    }
+  },
+  {
+    ".eps": {
+      "fileProInfoType": "application\\/postscript",
+      "fileProInfoComment": "PostScript"
+    }
+  },
+  {
+    ".epsf": {
+      "fileProInfoType": "application\\/postscript",
+      "fileProInfoComment": "PostScript"
+    }
+  },
+  {
+    ".epsi": {
+      "fileProInfoType": "application\\/postscript",
+      "fileProInfoComment": "PostScript"
+    }
+  },
+  {
+    ".cww": {
+      "fileProInfoType": "application\\/prs.cww",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rdf": {
+      "fileProInfoType": "application\\/rdf+xml",
+      "fileProInfoComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    ".owl": {
+      "fileProInfoType": "application\\/rdf+xml",
+      "fileProInfoComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    "^rdf$": {
+      "fileProInfoType": "application\\/rdf+xml",
+      "fileProInfoComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    "^owl$": {
+      "fileProInfoType": "application\\/rdf+xml",
+      "fileProInfoComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    ".xmp": {
+      "fileProInfoType": "application\\/rdf+xml",
+      "fileProInfoComment": "XML syntax for RDF graphs"
+    }
+  },
+  {
+    ".rif": {
+      "fileProInfoType": "application\\/reginfo+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rnc": {
+      "fileProInfoType": "application\\/relax-ng-compact-syntax",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rl": {
+      "fileProInfoType": "application\\/resource-lists+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rld": {
+      "fileProInfoType": "application\\/resource-lists-diff+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rs": {
+      "fileProInfoType": "application\\/rls-services+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rsd": {
+      "fileProInfoType": "application\\/rsd+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rss": {
+      "fileProInfoType": "application\\/rss+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rtf": {
+      "fileProInfoType": "application\\/rtf",
+      "fileProInfoComment": "Rich Text Format File"
+    }
+  },
+  {
+    ".sbml": {
+      "fileProInfoType": "application\\/sbml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".scq": {
+      "fileProInfoType": "application\\/scvp-cv-request",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".scs": {
+      "fileProInfoType": "application\\/scvp-cv-response",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".spq": {
+      "fileProInfoType": "application\\/scvp-vp-request",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".spp": {
+      "fileProInfoType": "application\\/scvp-vp-response",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sdp": {
+      "fileProInfoType": "application\\/sdp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".srl": {
+      "fileProInfoType": "application\\/sereal",
+      "fileProInfoComment": "Sereal binary serialization format"
+    }
+  },
+  {
+    ".setpay": {
+      "fileProInfoType": "application\\/set-payment-initiation",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".setreg": {
+      "fileProInfoType": "application\\/set-registration-initiation",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".shf": {
+      "fileProInfoType": "application\\/shf+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".smi": {
+      "fileProInfoType": "application\\/smil+xml",
+      "fileProInfoComment": "SMIL Multimedia"
+    }
+  },
+  {
+    ".smil": {
+      "fileProInfoType": "application\\/smil+xml",
+      "fileProInfoComment": "SMIL Multimedia"
+    }
+  },
+  {
+    ".sml": {
+      "fileProInfoType": "application\\/smil+xml",
+      "fileProInfoComment": "SMIL Multimedia"
+    }
+  },
+  {
+    ".sldprt": {
+      "fileProInfoType": "application\\/sldworks",
+      "fileProInfoComment": "SolidWorks CAD program"
+    }
+  },
+  {
+    ".sldasm": {
+      "fileProInfoType": "application\\/sldworks",
+      "fileProInfoComment": "SolidWorks CAD program"
+    }
+  },
+  {
+    ".slddrw": {
+      "fileProInfoType": "application\\/sldworks",
+      "fileProInfoComment": "SolidWorks CAD program"
+    }
+  },
+  {
+    ".rq": {
+      "fileProInfoType": "application\\/sparql-query",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".srx": {
+      "fileProInfoType": "application\\/sparql-results+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gram": {
+      "fileProInfoType": "application\\/srgs",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".grxml": {
+      "fileProInfoType": "application\\/srgs+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ssml": {
+      "fileProInfoType": "application\\/ssml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".plb": {
+      "fileProInfoType": "application\\/vnd.3gpp.pic-bw-large",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".psb": {
+      "fileProInfoType": "application\\/vnd.3gpp.pic-bw-small",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pvb": {
+      "fileProInfoType": "application\\/vnd.3gpp.pic-bw-var",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tcap": {
+      "fileProInfoType": "application\\/vnd.3gpp2.tcap",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pwn": {
+      "fileProInfoType": "application\\/vnd.3m.post-it-notes",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aso": {
+      "fileProInfoType": "application\\/vnd.accpac.simply.aso",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".imp": {
+      "fileProInfoType": "application\\/vnd.accpac.simply.imp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".acu": {
+      "fileProInfoType": "application\\/vnd.acucobol",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".atc": {
+      "fileProInfoType": "application\\/vnd.acucorp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".acutc": {
+      "fileProInfoType": "application\\/vnd.acucorp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".air": {
+      "fileProInfoType": "application\\/vnd.adobe.air-application-installer-package+zip",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aep": {
+      "fileProInfoType": "application\\/vnd.adobe.aftereffects.project",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aet": {
+      "fileProInfoType": "application\\/vnd.adobe.aftereffects.template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xdp": {
+      "fileProInfoType": "application\\/vnd.adobe.xdp+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xfdf": {
+      "fileProInfoType": "application\\/vnd.adobe.xfdf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".azf": {
+      "fileProInfoType": "application\\/vnd.airzip.filesecure.azf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".azs": {
+      "fileProInfoType": "application\\/vnd.airzip.filesecure.azs",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".azw": {
+      "fileProInfoType": "application\\/vnd.amazon.ebook",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".acc": {
+      "fileProInfoType": "application\\/vnd.americandynamics.acc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ami": {
+      "fileProInfoType": "application\\/vnd.amiga.ami",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cii": {
+      "fileProInfoType": "application\\/vnd.anser-web-certificate-issue-initiation",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fti": {
+      "fileProInfoType": "application\\/vnd.anser-web-funds-transfer-initiation",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".atx": {
+      "fileProInfoType": "application\\/vnd.antix.game-component",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpkg": {
+      "fileProInfoType": "application\\/vnd.apple.installer+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".key": {
+      "fileProInfoType": "application\\/vnd.apple.keynote",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pages": {
+      "fileProInfoType": "application\\/vnd.apple.pages",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".numbers": {
+      "fileProInfoType": "application\\/vnd.apple.numbers",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".swi": {
+      "fileProInfoType": "application\\/vnd.arastra.swi",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpm": {
+      "fileProInfoType": "application\\/vnd.blueice.multipass",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bmi": {
+      "fileProInfoType": "application\\/vnd.bmi",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rep": {
+      "fileProInfoType": "application\\/vnd.businessobjects",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cdxml": {
+      "fileProInfoType": "application\\/vnd.chemdraw+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mmd": {
+      "fileProInfoType": "application\\/vnd.chipnuts.karaoke-mmd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cdy": {
+      "fileProInfoType": "application\\/vnd.cinderella",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cla": {
+      "fileProInfoType": "application\\/vnd.claymore",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".c4g": {
+      "fileProInfoType": "application\\/vnd.clonk.c4group",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".c4d": {
+      "fileProInfoType": "application\\/vnd.clonk.c4group",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".c4f": {
+      "fileProInfoType": "application\\/vnd.clonk.c4group",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".c4p": {
+      "fileProInfoType": "application\\/vnd.clonk.c4group",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".c4u": {
+      "fileProInfoType": "application\\/vnd.clonk.c4group",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".csp": {
+      "fileProInfoType": "application\\/vnd.commonspace",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cdbcmsg": {
+      "fileProInfoType": "application\\/vnd.contact.cmsg",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cmc": {
+      "fileProInfoType": "application\\/vnd.cosmocaller",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".clkx": {
+      "fileProInfoType": "application\\/vnd.crick.clicker",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".clkk": {
+      "fileProInfoType": "application\\/vnd.crick.clicker.keyboard",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".clkp": {
+      "fileProInfoType": "application\\/vnd.crick.clicker.palette",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".clkt": {
+      "fileProInfoType": "application\\/vnd.crick.clicker.template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".clkw": {
+      "fileProInfoType": "application\\/vnd.crick.clicker.wordbank",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wbs": {
+      "fileProInfoType": "application\\/vnd.criticaltools.wbs+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pml": {
+      "fileProInfoType": "application\\/vnd.ctc-posml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ppd": {
+      "fileProInfoType": "application\\/vnd.cups-ppd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".car": {
+      "fileProInfoType": "application\\/vnd.curl.car",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pcurl": {
+      "fileProInfoType": "application\\/vnd.curl.pcurl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rdz": {
+      "fileProInfoType": "application\\/vnd.data-vision.rdz",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fe_launch": {
+      "fileProInfoType": "application\\/vnd.denovo.fcselayout-link",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dna": {
+      "fileProInfoType": "application\\/vnd.dna",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mlp": {
+      "fileProInfoType": "application\\/vnd.dolby.mlp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dpg": {
+      "fileProInfoType": "application\\/vnd.dpgraph",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dfac": {
+      "fileProInfoType": "application\\/vnd.dreamfactory",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".geo": {
+      "fileProInfoType": "application\\/vnd.dynageo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mag": {
+      "fileProInfoType": "application\\/vnd.ecowin.chart",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nml": {
+      "fileProInfoType": "application\\/vnd.enliven",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".esf": {
+      "fileProInfoType": "application\\/vnd.epson.esf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".msf": {
+      "fileProInfoType": "application\\/vnd.epson.msf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qam": {
+      "fileProInfoType": "application\\/vnd.epson.quickanime",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".slt": {
+      "fileProInfoType": "application\\/vnd.epson.salt",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ssf": {
+      "fileProInfoType": "application\\/vnd.epson.ssf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".es3": {
+      "fileProInfoType": "application\\/vnd.eszigno3+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".et3": {
+      "fileProInfoType": "application\\/vnd.eszigno3+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".asice": {
+      "fileProInfoType": "application\\/vnd.etsi.asic-e+zip",
+      "fileProInfoComment": "Extended Associated Signature Container"
+    }
+  },
+  {
+    ".asics": {
+      "fileProInfoType": "application\\/vnd.etsi.asic-s+zip",
+      "fileProInfoComment": "Simple Associated Signature Container"
+    }
+  },
+  {
+    ".ez2": {
+      "fileProInfoType": "application\\/vnd.ezpix-album",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ez3": {
+      "fileProInfoType": "application\\/vnd.ezpix-package",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fdf": {
+      "fileProInfoType": "application\\/vnd.fdf",
+      "fileProInfoComment": "Forms Data Format"
+    }
+  },
+  {
+    ".mseed": {
+      "fileProInfoType": "application\\/vnd.fdsn.mseed",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".seed": {
+      "fileProInfoType": "application\\/vnd.fdsn.seed",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dataless": {
+      "fileProInfoType": "application\\/vnd.fdsn.seed",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gph": {
+      "fileProInfoType": "application\\/vnd.flographit",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ftc": {
+      "fileProInfoType": "application\\/vnd.fluxtime.clip",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fm": {
+      "fileProInfoType": "application\\/vnd.framemaker",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".frame": {
+      "fileProInfoType": "application\\/vnd.framemaker",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".maker": {
+      "fileProInfoType": "application\\/vnd.framemaker",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".book": {
+      "fileProInfoType": "application\\/vnd.framemaker",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fnc": {
+      "fileProInfoType": "application\\/vnd.frogans.fnc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ltf": {
+      "fileProInfoType": "application\\/vnd.frogans.ltf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fsc": {
+      "fileProInfoType": "application\\/vnd.fsc.weblaunch",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".oas": {
+      "fileProInfoType": "application\\/vnd.fujitsu.oasys",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".oa2": {
+      "fileProInfoType": "application\\/vnd.fujitsu.oasys2",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".oa3": {
+      "fileProInfoType": "application\\/vnd.fujitsu.oasys3",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fg5": {
+      "fileProInfoType": "application\\/vnd.fujitsu.oasysgp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bh2": {
+      "fileProInfoType": "application\\/vnd.fujitsu.oasysprs",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ddd": {
+      "fileProInfoType": "application\\/vnd.fujixerox.ddd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xdw": {
+      "fileProInfoType": "application\\/vnd.fujixerox.docuworks",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xbd": {
+      "fileProInfoType": "application\\/vnd.fujixerox.docuworks.binder",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fzs": {
+      "fileProInfoType": "application\\/vnd.fuzzysheet",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".txd": {
+      "fileProInfoType": "application\\/vnd.genomatix.tuxedo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ggb": {
+      "fileProInfoType": "application\\/vnd.geogebra.file",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ggt": {
+      "fileProInfoType": "application\\/vnd.geogebra.tool",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gex": {
+      "fileProInfoType": "application\\/vnd.geometry-explorer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gre": {
+      "fileProInfoType": "application\\/vnd.geometry-explorer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gmx": {
+      "fileProInfoType": "application\\/vnd.gmx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".kml": {
+      "fileProInfoType": "application\\/vnd.google-earth.kml+xml",
+      "fileProInfoComment": "Keyhole Markup Language"
+    }
+  },
+  {
+    ".kmz": {
+      "fileProInfoType": "application\\/vnd.google-earth.kmz",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gqf": {
+      "fileProInfoType": "application\\/vnd.grafeq",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gqs": {
+      "fileProInfoType": "application\\/vnd.grafeq",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gac": {
+      "fileProInfoType": "application\\/vnd.groove-account",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ghf": {
+      "fileProInfoType": "application\\/vnd.groove-help",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gim": {
+      "fileProInfoType": "application\\/vnd.groove-identity-message",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".grv": {
+      "fileProInfoType": "application\\/vnd.groove-injector",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gtm": {
+      "fileProInfoType": "application\\/vnd.groove-tool-message",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tpl": {
+      "fileProInfoType": "application\\/vnd.groove-tool-template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vcg": {
+      "fileProInfoType": "application\\/vnd.groove-vcard",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".zmm": {
+      "fileProInfoType": "application\\/vnd.handheld-entertainment+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hbci": {
+      "fileProInfoType": "application\\/vnd.hbci",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".les": {
+      "fileProInfoType": "application\\/vnd.hhe.lesson-player",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hpgl": {
+      "fileProInfoType": "application\\/vnd.hp-hpgl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hpid": {
+      "fileProInfoType": "application\\/vnd.hp-hpid",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hps": {
+      "fileProInfoType": "application\\/vnd.hp-hps",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jlt": {
+      "fileProInfoType": "application\\/vnd.hp-jlyt",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pcl": {
+      "fileProInfoType": "application\\/vnd.hp-pcl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pclxl": {
+      "fileProInfoType": "application\\/vnd.hp-pclxl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sfd-hdstx": {
+      "fileProInfoType": "application\\/vnd.hydrostatix.sof-data",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".x3d": {
+      "fileProInfoType": "application\\/vnd.hzn-3d-crossword",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpy": {
+      "fileProInfoType": "application\\/vnd.ibm.minipay",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".afp": {
+      "fileProInfoType": "application\\/vnd.ibm.modcap",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".listafp": {
+      "fileProInfoType": "application\\/vnd.ibm.modcap",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".list3820": {
+      "fileProInfoType": "application\\/vnd.ibm.modcap",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".irm": {
+      "fileProInfoType": "application\\/vnd.ibm.rights-management",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sc": {
+      "fileProInfoType": "application\\/vnd.ibm.secure-container",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".icc": {
+      "fileProInfoType": "application\\/vnd.iccprofile",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".icm": {
+      "fileProInfoType": "application\\/vnd.iccprofile",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".igl": {
+      "fileProInfoType": "application\\/vnd.igloader",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ivp": {
+      "fileProInfoType": "application\\/vnd.immervision-ivp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ivu": {
+      "fileProInfoType": "application\\/vnd.immervision-ivu",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xpw": {
+      "fileProInfoType": "application\\/vnd.intercon.formnet",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xpx": {
+      "fileProInfoType": "application\\/vnd.intercon.formnet",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qbo": {
+      "fileProInfoType": "application\\/vnd.intu.qbo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qfx": {
+      "fileProInfoType": "application\\/vnd.intu.qfx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nar": {
+      "fileProInfoType": "application\\/vnd.iptc.g2.newsmessage+xml",
+      "fileProInfoComment": "XML syntax for IPTC NewsMessages"
+    }
+  },
+  {
+    ".rcprofile": {
+      "fileProInfoType": "application\\/vnd.ipunplugged.rcprofile",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".irp": {
+      "fileProInfoType": "application\\/vnd.irepository.package+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xpr": {
+      "fileProInfoType": "application\\/vnd.is-xpr",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jam": {
+      "fileProInfoType": "application\\/vnd.jam",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rms": {
+      "fileProInfoType": "application\\/vnd.jcp.javame.midlet-rms",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jisp": {
+      "fileProInfoType": "application\\/vnd.jisp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".joda": {
+      "fileProInfoType": "application\\/vnd.joost.joda-archive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ktz": {
+      "fileProInfoType": "application\\/vnd.kahootz",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ktr": {
+      "fileProInfoType": "application\\/vnd.kahootz",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".karbon": {
+      "fileProInfoType": "application\\/vnd.kde.karbon",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".chrt": {
+      "fileProInfoType": "application\\/vnd.kde.kchart",
+      "fileProInfoComment": "KChart File"
+    }
+  },
+  {
+    ".kfo": {
+      "fileProInfoType": "application\\/vnd.kde.kformula",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".flw": {
+      "fileProInfoType": "application\\/vnd.kde.kivio",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".kon": {
+      "fileProInfoType": "application\\/vnd.kde.kontour",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".kpr": {
+      "fileProInfoType": "application\\/vnd.kde.kpresenter",
+      "fileProInfoComment": "KPresenter File"
+    }
+  },
+  {
+    ".kpt": {
+      "fileProInfoType": "application\\/vnd.kde.kpresenter",
+      "fileProInfoComment": "KPresenter File"
+    }
+  },
+  {
+    ".ksp": {
+      "fileProInfoType": "application\\/vnd.kde.kspread",
+      "fileProInfoComment": "KSpread File"
+    }
+  },
+  {
+    ".kwd": {
+      "fileProInfoType": "application\\/vnd.kde.kword",
+      "fileProInfoComment": "KWord File"
+    }
+  },
+  {
+    ".kwt": {
+      "fileProInfoType": "application\\/vnd.kde.kword",
+      "fileProInfoComment": "KWord File"
+    }
+  },
+  {
+    ".htke": {
+      "fileProInfoType": "application\\/vnd.kenameaapp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".kia": {
+      "fileProInfoType": "application\\/vnd.kidspiration",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".kne": {
+      "fileProInfoType": "application\\/vnd.kinar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".knp": {
+      "fileProInfoType": "application\\/vnd.kinar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".skp": {
+      "fileProInfoType": "application\\/vnd.koan",
+      "fileProInfoComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".skd": {
+      "fileProInfoType": "application\\/vnd.koan",
+      "fileProInfoComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".skt": {
+      "fileProInfoType": "application\\/vnd.koan",
+      "fileProInfoComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".skm": {
+      "fileProInfoType": "application\\/vnd.koan",
+      "fileProInfoComment": "SSEYO Koan File"
+    }
+  },
+  {
+    ".sse": {
+      "fileProInfoType": "application\\/vnd.kodak-descriptor",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lbd": {
+      "fileProInfoType": "application\\/vnd.llamagraphics.life-balance.desktop",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lbe": {
+      "fileProInfoType": "application\\/vnd.llamagraphics.life-balance.exchange+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wk1": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3",
+      "fileProInfoComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk2": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3",
+      "fileProInfoComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk3": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3",
+      "fileProInfoComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk4": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3",
+      "fileProInfoComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".123": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3",
+      "fileProInfoComment": "Lotus 1-2-3"
+    }
+  },
+  {
+    ".wk1": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3;version=2",
+      "fileProInfoComment": "Lotus 1-2-3, version 2"
+    }
+  },
+  {
+    ".wk2": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3;version=2",
+      "fileProInfoComment": "Lotus 1-2-3, version 2"
+    }
+  },
+  {
+    ".wk3": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3;version=3",
+      "fileProInfoComment": "Lotus 1-2-3, version 3"
+    }
+  },
+  {
+    ".wk4": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3;version=4",
+      "fileProInfoComment": "Lotus 1-2-3, version 4-5"
+    }
+  },
+  {
+    ".123": {
+      "fileProInfoType": "application\\/vnd.lotus-1-2-3;version=97+9.x",
+      "fileProInfoComment": "Lotus 1-2-3, version 97\\/9.x"
+    }
+  },
+  {
+    ".apr": {
+      "fileProInfoType": "application\\/vnd.lotus-approach",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pre": {
+      "fileProInfoType": "application\\/vnd.lotus-freelance",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nsf": {
+      "fileProInfoType": "application\\/vnd.lotus-notes",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".org": {
+      "fileProInfoType": "application\\/vnd.lotus-organizer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lwp": {
+      "fileProInfoType": "application\\/vnd.lotus-wordpro",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".portpkg": {
+      "fileProInfoType": "application\\/vnd.macports.portpkg",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mcd": {
+      "fileProInfoType": "application\\/vnd.mcd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mc1": {
+      "fileProInfoType": "application\\/vnd.medcalcdata",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cdkey": {
+      "fileProInfoType": "application\\/vnd.mediastation.cdkey",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mwf": {
+      "fileProInfoType": "application\\/vnd.mfer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mfm": {
+      "fileProInfoType": "application\\/vnd.mfmp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".flo": {
+      "fileProInfoType": "application\\/vnd.micrografx.flo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".igx": {
+      "fileProInfoType": "application\\/vnd.micrografx.igx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mif": {
+      "fileProInfoType": "application\\/vnd.mif",
+      "fileProInfoComment": "FrameMaker Interchange Format"
+    }
+  },
+  {
+    ".mmp": {
+      "fileProInfoType": "application\\/vnd.mindjet.mindmanager",
+      "fileProInfoComment": "MindManager"
+    }
+  },
+  {
+    ".mmap": {
+      "fileProInfoType": "application\\/vnd.mindjet.mindmanager",
+      "fileProInfoComment": "MindManager"
+    }
+  },
+  {
+    ".mmpt": {
+      "fileProInfoType": "application\\/vnd.mindjet.mindmanager",
+      "fileProInfoComment": "MindManager"
+    }
+  },
+  {
+    ".mmat": {
+      "fileProInfoType": "application\\/vnd.mindjet.mindmanager",
+      "fileProInfoComment": "MindManager"
+    }
+  },
+  {
+    ".mmmp": {
+      "fileProInfoType": "application\\/vnd.mindjet.mindmanager",
+      "fileProInfoComment": "MindManager"
+    }
+  },
+  {
+    ".mmas": {
+      "fileProInfoType": "application\\/vnd.mindjet.mindmanager",
+      "fileProInfoComment": "MindManager"
+    }
+  },
+  {
+    ".daf": {
+      "fileProInfoType": "application\\/vnd.mobius.daf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dis": {
+      "fileProInfoType": "application\\/vnd.mobius.dis",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mbk": {
+      "fileProInfoType": "application\\/vnd.mobius.mbk",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mqy": {
+      "fileProInfoType": "application\\/vnd.mobius.mqy",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".msl": {
+      "fileProInfoType": "application\\/vnd.mobius.msl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".plc": {
+      "fileProInfoType": "application\\/vnd.mobius.plc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".txf": {
+      "fileProInfoType": "application\\/vnd.mobius.txf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpn": {
+      "fileProInfoType": "application\\/vnd.mophun.application",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpc": {
+      "fileProInfoType": "application\\/vnd.mophun.certificate",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xul": {
+      "fileProInfoType": "application\\/vnd.mozilla.xul+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cil": {
+      "fileProInfoType": "application\\/vnd.ms-artgalry",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cab": {
+      "fileProInfoType": "application\\/vnd.ms-cab-compressed",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xls": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlm": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xla": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlc": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlt": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlw": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xll": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xld": {
+      "fileProInfoType": "application\\/vnd.ms-excel",
+      "fileProInfoComment": "Microsoft Excel Spreadsheet"
+    }
+  },
+  {
+    ".xlam": {
+      "fileProInfoType": "application\\/vnd.ms-excel.addin.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Workbook Add-in (macro-enabled)"
+    }
+  },
+  {
+    ".xlsm": {
+      "fileProInfoType": "application\\/vnd.ms-excel.sheet.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Workbook (macro-enabled)"
+    }
+  },
+  {
+    ".xlsb": {
+      "fileProInfoType": "application\\/vnd.ms-excel.sheet.binary.macroenabled.12",
+      "fileProInfoComment": "Microsoft Excel 2007 Binary Spreadsheet"
+    }
+  },
+  {
+    ".eot": {
+      "fileProInfoType": "application\\/vnd.ms-fontobject",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".chm": {
+      "fileProInfoType": "application\\/vnd.ms-htmlhelp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ims": {
+      "fileProInfoType": "application\\/vnd.ms-ims",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lrm": {
+      "fileProInfoType": "application\\/vnd.ms-lrm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".msg": {
+      "fileProInfoType": "application\\/vnd.ms-outlook",
+      "fileProInfoComment": "Microsoft Outlook Message"
+    }
+  },
+  {
+    ".pst": {
+      "fileProInfoType": "application\\/vnd.ms-outlook-pst",
+      "fileProInfoComment": "Outlook Personal Folders File Format"
+    }
+  },
+  {
+    ".ost": {
+      "fileProInfoType": "application\\/vnd.ms-outlook-pst",
+      "fileProInfoComment": "Outlook Personal Folders File Format"
+    }
+  },
+  {
+    ".cat": {
+      "fileProInfoType": "application\\/vnd.ms-pki.seccat",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".stl": {
+      "fileProInfoType": "application\\/vnd.ms-pki.stl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ppt": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint",
+      "fileProInfoComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".ppz": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint",
+      "fileProInfoComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".pps": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint",
+      "fileProInfoComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".pot": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint",
+      "fileProInfoComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".ppa": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint",
+      "fileProInfoComment": "Microsoft Powerpoint Presentation"
+    }
+  },
+  {
+    ".ppam": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint.addin.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Presentation Add-in (macro-enabled)"
+    }
+  },
+  {
+    ".pptm": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint.presentation.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Presentation (macro-enabled)"
+    }
+  },
+  {
+    ".sldm": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint.slide.macroenabled.12",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ppsm": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint.slideshow.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Presentation Slideshow (macro-enabled)"
+    }
+  },
+  {
+    ".potm": {
+      "fileProInfoType": "application\\/vnd.ms-powerpoint.template.macroenabled.12",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpp": {
+      "fileProInfoType": "application\\/vnd.ms-project",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpt": {
+      "fileProInfoType": "application\\/vnd.ms-project",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpx": {
+      "fileProInfoType": "application\\/x-project",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".docm": {
+      "fileProInfoType": "application\\/vnd.ms-word.document.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Document (macro-enabled)"
+    }
+  },
+  {
+    ".dotm": {
+      "fileProInfoType": "application\\/vnd.ms-word.template.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Document Template (macro-enabled)"
+    }
+  },
+  {
+    ".wps": {
+      "fileProInfoType": "application\\/vnd.ms-works",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wks": {
+      "fileProInfoType": "application\\/vnd.ms-works",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wcm": {
+      "fileProInfoType": "application\\/vnd.ms-works",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wdb": {
+      "fileProInfoType": "application\\/vnd.ms-works",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wpl": {
+      "fileProInfoType": "application\\/vnd.ms-wpl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xps": {
+      "fileProInfoType": "application\\/vnd.ms-xpsdocument",
+      "fileProInfoComment": "Open XML Paper Specification"
+    }
+  },
+  {
+    ".oxps": {
+      "fileProInfoType": "application\\/vnd.ms-xpsdocument",
+      "fileProInfoComment": "Open XML Paper Specification"
+    }
+  },
+  {
+    ".mseq": {
+      "fileProInfoType": "application\\/vnd.mseq",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mus": {
+      "fileProInfoType": "application\\/vnd.musician",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".msty": {
+      "fileProInfoType": "application\\/vnd.muvee.style",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nlu": {
+      "fileProInfoType": "application\\/vnd.neurolanguage.nlu",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nnd": {
+      "fileProInfoType": "application\\/vnd.noblenet-directory",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nns": {
+      "fileProInfoType": "application\\/vnd.noblenet-sealer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nnw": {
+      "fileProInfoType": "application\\/vnd.noblenet-web",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ngdat": {
+      "fileProInfoType": "application\\/vnd.nokia.n-gage.data",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".n-gage": {
+      "fileProInfoType": "application\\/vnd.nokia.n-gage.symbian.install",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rpst": {
+      "fileProInfoType": "application\\/vnd.nokia.radio-preset",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rpss": {
+      "fileProInfoType": "application\\/vnd.nokia.radio-presets",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".edm": {
+      "fileProInfoType": "application\\/vnd.novadigm.edm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".edx": {
+      "fileProInfoType": "application\\/vnd.novadigm.edx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ext": {
+      "fileProInfoType": "application\\/vnd.novadigm.ext",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".odc": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.chart",
+      "fileProInfoComment": "OpenDocument v1.0: Chart document"
+    }
+  },
+  {
+    ".otc": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.chart-template",
+      "fileProInfoComment": "OpenDocument v1.0: Chart document used as template"
+    }
+  },
+  {
+    ".odb": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.base",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".odf": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.formula",
+      "fileProInfoComment": "OpenDocument v1.0: Formula document"
+    }
+  },
+  {
+    ".odft": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.formula-template",
+      "fileProInfoComment": "OpenDocument v1.0: Formula document used as template"
+    }
+  },
+  {
+    ".odg": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.graphics",
+      "fileProInfoComment": "OpenDocument v1.0: Graphics document (Drawing)"
+    }
+  },
+  {
+    ".otg": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.graphics-template",
+      "fileProInfoComment": "OpenDocument v1.0: Graphics document used as template"
+    }
+  },
+  {
+    ".odi": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.image",
+      "fileProInfoComment": "OpenDocument v1.0: Image document"
+    }
+  },
+  {
+    ".oti": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.image-template",
+      "fileProInfoComment": "OpenDocument v1.0: Image document used as template"
+    }
+  },
+  {
+    ".odp": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.presentation",
+      "fileProInfoComment": "OpenDocument v1.0: Presentation document"
+    }
+  },
+  {
+    ".otp": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.presentation-template",
+      "fileProInfoComment": "OpenDocument v1.0: Presentation document used as template"
+    }
+  },
+  {
+    ".ods": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.spreadsheet",
+      "fileProInfoComment": "OpenDocument v1.0: Spreadsheet document"
+    }
+  },
+  {
+    ".ots": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.spreadsheet-template",
+      "fileProInfoComment": "OpenDocument v1.0: Spreadsheet document used as template"
+    }
+  },
+  {
+    ".odt": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.text",
+      "fileProInfoComment": "OpenDocument v1.0: Text document"
+    }
+  },
+  {
+    ".otm": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.text-master",
+      "fileProInfoComment": "OpenDocument v1.0: Global Text document"
+    }
+  },
+  {
+    ".ott": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.text-template",
+      "fileProInfoComment": "OpenDocument v1.0: Text document used as template"
+    }
+  },
+  {
+    ".oth": {
+      "fileProInfoType": "application\\/vnd.oasis.opendocument.text-web",
+      "fileProInfoComment": "OpenDocument v1.0: Text document used as template for HTML documents"
+    }
+  },
+  {
+    ".xo": {
+      "fileProInfoType": "application\\/vnd.olpc-sugar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dd2": {
+      "fileProInfoType": "application\\/vnd.oma.dd2+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".oxt": {
+      "fileProInfoType": "application\\/vnd.openofficeorg.extension",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pptx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "fileProInfoComment": "Office Open XML Presentation"
+    }
+  },
+  {
+    ".thmx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "fileProInfoComment": "Office Open XML Presentation"
+    }
+  },
+  {
+    ".sldx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.presentationml.slide",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".potx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.presentationml.template",
+      "fileProInfoComment": "Office Open XML Presentation Template"
+    }
+  },
+  {
+    ".ppsx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.presentationml.slideshow",
+      "fileProInfoComment": "Office Open XML Presentation Slideshow"
+    }
+  },
+  {
+    ".xlsx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "fileProInfoComment": "Office Open XML Workbook"
+    }
+  },
+  {
+    ".xltx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.spreadsheetml.template",
+      "fileProInfoComment": "Office Open XML Workbook Template"
+    }
+  },
+  {
+    ".xltm": {
+      "fileProInfoType": "application\\/vnd.ms-excel.template.macroenabled.12",
+      "fileProInfoComment": "Office Open XML Workbook Template (macro-enabled)"
+    }
+  },
+  {
+    ".docx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "fileProInfoComment": "Office Open XML Document"
+    }
+  },
+  {
+    ".dotx": {
+      "fileProInfoType": "application\\/vnd.openxmlformats-officedocument.wordprocessingml.template",
+      "fileProInfoComment": "Office Open XML Document Template"
+    }
+  },
+  {
+    ".dp": {
+      "fileProInfoType": "application\\/vnd.osgi.dp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pqa": {
+      "fileProInfoType": "application\\/vnd.palm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".oprc": {
+      "fileProInfoType": "application\\/vnd.palm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".str": {
+      "fileProInfoType": "application\\/vnd.pg.format",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ei6": {
+      "fileProInfoType": "application\\/vnd.pg.osasli",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".efif": {
+      "fileProInfoType": "application\\/vnd.picsel",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".plf": {
+      "fileProInfoType": "application\\/vnd.pocketlearn",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pbd": {
+      "fileProInfoType": "application\\/vnd.powerbuilder6",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".box": {
+      "fileProInfoType": "application\\/vnd.previewsystems.box",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mgz": {
+      "fileProInfoType": "application\\/vnd.proteus.magazine",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qps": {
+      "fileProInfoType": "application\\/vnd.publishare-delta-tree",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ptid": {
+      "fileProInfoType": "application\\/vnd.pvi.ptid1",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qxd": {
+      "fileProInfoType": "application\\/vnd.quark.quarkxpress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qxt": {
+      "fileProInfoType": "application\\/vnd.quark.quarkxpress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qwd": {
+      "fileProInfoType": "application\\/vnd.quark.quarkxpress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qwt": {
+      "fileProInfoType": "application\\/vnd.quark.quarkxpress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qxl": {
+      "fileProInfoType": "application\\/vnd.quark.quarkxpress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".qxb": {
+      "fileProInfoType": "application\\/vnd.quark.quarkxpress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mxl": {
+      "fileProInfoType": "application\\/vnd.recordare.musicxml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".musicxml": {
+      "fileProInfoType": "application\\/vnd.recordare.musicxml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cod": {
+      "fileProInfoType": "application\\/vnd.rim.cod",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rm": {
+      "fileProInfoType": "application\\/vnd.rn-realmedia",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".link66": {
+      "fileProInfoType": "application\\/vnd.route66.link66+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".see": {
+      "fileProInfoType": "application\\/vnd.seemail",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sema": {
+      "fileProInfoType": "application\\/vnd.sema",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".semd": {
+      "fileProInfoType": "application\\/vnd.semd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".semf": {
+      "fileProInfoType": "application\\/vnd.semf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ifm": {
+      "fileProInfoType": "application\\/vnd.shana.informed.formdata",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".itp": {
+      "fileProInfoType": "application\\/vnd.shana.informed.formtemplate",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".iif": {
+      "fileProInfoType": "application\\/vnd.shana.informed.interchange",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ipk": {
+      "fileProInfoType": "application\\/vnd.shana.informed.package",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".twd": {
+      "fileProInfoType": "application\\/vnd.simtech-mindmapper",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".twds": {
+      "fileProInfoType": "application\\/vnd.simtech-mindmapper",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mmf": {
+      "fileProInfoType": "application\\/vnd.smaf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".teacher": {
+      "fileProInfoType": "application\\/vnd.smart.teacher",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sdkm": {
+      "fileProInfoType": "application\\/vnd.solent.sdkm+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sdkd": {
+      "fileProInfoType": "application\\/vnd.solent.sdkm+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dxp": {
+      "fileProInfoType": "application\\/vnd.spotfire.dxp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sfs": {
+      "fileProInfoType": "application\\/vnd.spotfire.sfs",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sdc": {
+      "fileProInfoType": "application\\/vnd.stardivision.calc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sda": {
+      "fileProInfoType": "application\\/vnd.stardivision.draw",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sdd": {
+      "fileProInfoType": "application\\/vnd.stardivision.impress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".smf": {
+      "fileProInfoType": "application\\/vnd.stardivision.math",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sdw": {
+      "fileProInfoType": "application\\/vnd.stardivision.writer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vor": {
+      "fileProInfoType": "application\\/x-staroffice-template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sgl": {
+      "fileProInfoType": "application\\/vnd.stardivision.writer-global",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sxc": {
+      "fileProInfoType": "application\\/vnd.sun.xml.calc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".stc": {
+      "fileProInfoType": "application\\/vnd.sun.xml.calc.template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sxd": {
+      "fileProInfoType": "application\\/vnd.sun.xml.draw",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".std": {
+      "fileProInfoType": "application\\/vnd.sun.xml.draw.template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sxi": {
+      "fileProInfoType": "application\\/vnd.sun.xml.impress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sti": {
+      "fileProInfoType": "application\\/vnd.sun.xml.impress.template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sxm": {
+      "fileProInfoType": "application\\/vnd.sun.xml.math",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sxw": {
+      "fileProInfoType": "application\\/vnd.sun.xml.writer",
+      "fileProInfoComment": "OpenOffice v1.0: Writer Document"
+    }
+  },
+  {
+    ".sxg": {
+      "fileProInfoType": "application\\/vnd.sun.xml.writer.global",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".stw": {
+      "fileProInfoType": "application\\/vnd.sun.xml.writer.template",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sus": {
+      "fileProInfoType": "application\\/vnd.sus-calendar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".susp": {
+      "fileProInfoType": "application\\/vnd.sus-calendar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".svd": {
+      "fileProInfoType": "application\\/vnd.svd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sis": {
+      "fileProInfoType": "application\\/vnd.symbian.install",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sisx": {
+      "fileProInfoType": "application\\/vnd.symbian.install",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xsm": {
+      "fileProInfoType": "application\\/vnd.syncml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bdm": {
+      "fileProInfoType": "application\\/vnd.syncml.dm+wbxml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xdm": {
+      "fileProInfoType": "application\\/vnd.syncml.dm+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tao": {
+      "fileProInfoType": "application\\/vnd.tao.intent-module-archive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pcap": {
+      "fileProInfoType": "application\\/vnd.tcpdump.pcap",
+      "fileProInfoComment": "TCPDump pcap packet capture"
+    }
+  },
+  {
+    ".cap": {
+      "fileProInfoType": "application\\/vnd.tcpdump.pcap",
+      "fileProInfoComment": "TCPDump pcap packet capture"
+    }
+  },
+  {
+    ".dmp": {
+      "fileProInfoType": "application\\/vnd.tcpdump.pcap",
+      "fileProInfoComment": "TCPDump pcap packet capture"
+    }
+  },
+  {
+    ".tmo": {
+      "fileProInfoType": "application\\/vnd.tmobile-livetv",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tpt": {
+      "fileProInfoType": "application\\/vnd.trid.tpt",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mxs": {
+      "fileProInfoType": "application\\/vnd.triscape.mxs",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tra": {
+      "fileProInfoType": "application\\/vnd.trueapp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ufd": {
+      "fileProInfoType": "application\\/vnd.ufdl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ufdl": {
+      "fileProInfoType": "application\\/vnd.ufdl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".utz": {
+      "fileProInfoType": "application\\/vnd.uiq.theme",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".umj": {
+      "fileProInfoType": "application\\/vnd.umajin",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".unityweb": {
+      "fileProInfoType": "application\\/vnd.unity",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".uoml": {
+      "fileProInfoType": "application\\/vnd.uoml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vcx": {
+      "fileProInfoType": "application\\/vnd.vcx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vsd": {
+      "fileProInfoType": "application\\/vnd.visio",
+      "fileProInfoComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vst": {
+      "fileProInfoType": "application\\/vnd.visio",
+      "fileProInfoComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vss": {
+      "fileProInfoType": "application\\/vnd.visio",
+      "fileProInfoComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vsw": {
+      "fileProInfoType": "application\\/vnd.visio",
+      "fileProInfoComment": "Microsoft Visio Diagram"
+    }
+  },
+  {
+    ".vsdx": {
+      "fileProInfoType": "application\\/vnd.ms-visio.drawing",
+      "fileProInfoComment": "Office Open XML Visio Drawing (macro-free)"
+    }
+  },
+  {
+    ".vstx": {
+      "fileProInfoType": "application\\/vnd.ms-visio.template",
+      "fileProInfoComment": "Office Open XML Visio Template (macro-free)"
+    }
+  },
+  {
+    ".vssx": {
+      "fileProInfoType": "application\\/vnd.ms-visio.stencil",
+      "fileProInfoComment": "Office Open XML Visio Stencil (macro-free)"
+    }
+  },
+  {
+    ".vsdm": {
+      "fileProInfoType": "application\\/vnd.ms-visio.drawing.macroEnabled.12",
+      "fileProInfoComment": "Office Open XML Visio Drawing (macro-enabled)"
+    }
+  },
+  {
+    ".vstm": {
+      "fileProInfoType": "application\\/vnd.ms-visio.template.macroEnabled.12",
+      "fileProInfoComment": "Office Open XML Visio Template (macro-enabled)"
+    }
+  },
+  {
+    ".vssm": {
+      "fileProInfoType": "application\\/vnd.ms-visio.stencil.macroEnabled.12",
+      "fileProInfoComment": "Office Open XML Visio Stencil (macro-enabled)"
+    }
+  },
+  {
+    ".vis": {
+      "fileProInfoType": "application\\/vnd.visionary",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vsf": {
+      "fileProInfoType": "application\\/vnd.vsf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wbxml": {
+      "fileProInfoType": "application\\/vnd.wap.wbxml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wmlc": {
+      "fileProInfoType": "application\\/vnd.wap.wmlc",
+      "fileProInfoComment": "Compiled WML Document"
+    }
+  },
+  {
+    ".wmlsc": {
+      "fileProInfoType": "application\\/vnd.wap.wmlscriptc",
+      "fileProInfoComment": "Compiled WML Script"
+    }
+  },
+  {
+    ".wtb": {
+      "fileProInfoType": "application\\/vnd.webturbo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wpd": {
+      "fileProInfoType": "application\\/vnd.wordperfect",
+      "fileProInfoComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp": {
+      "fileProInfoType": "application\\/vnd.wordperfect",
+      "fileProInfoComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp5": {
+      "fileProInfoType": "application\\/vnd.wordperfect",
+      "fileProInfoComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp6": {
+      "fileProInfoType": "application\\/vnd.wordperfect",
+      "fileProInfoComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".w60": {
+      "fileProInfoType": "application\\/vnd.wordperfect",
+      "fileProInfoComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wp61": {
+      "fileProInfoType": "application\\/vnd.wordperfect",
+      "fileProInfoComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wpt": {
+      "fileProInfoType": "application\\/vnd.wordperfect",
+      "fileProInfoComment": "WordPerfect - Corel Word Processing"
+    }
+  },
+  {
+    ".wqd": {
+      "fileProInfoType": "application\\/vnd.wqd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".stf": {
+      "fileProInfoType": "application\\/vnd.wt.stf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xar": {
+      "fileProInfoType": "application\\/vnd.xara",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xfdl": {
+      "fileProInfoType": "application\\/vnd.xfdl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hvd": {
+      "fileProInfoType": "application\\/vnd.yamaha.hv-dic",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hvs": {
+      "fileProInfoType": "application\\/vnd.yamaha.hv-script",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".hvp": {
+      "fileProInfoType": "application\\/vnd.yamaha.hv-voice",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".osf": {
+      "fileProInfoType": "application\\/vnd.yamaha.openscoreformat",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".osfpvg": {
+      "fileProInfoType": "application\\/vnd.yamaha.openscoreformat.osfpvg+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".saf": {
+      "fileProInfoType": "application\\/vnd.yamaha.smaf-audio",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".spf": {
+      "fileProInfoType": "application\\/vnd.yamaha.smaf-phrase",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cmp": {
+      "fileProInfoType": "application\\/vnd.yellowriver-custom-menu",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".zir": {
+      "fileProInfoType": "application\\/vnd.zul",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".zirz": {
+      "fileProInfoType": "application\\/vnd.zul",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".zaz": {
+      "fileProInfoType": "application\\/vnd.zzazz.deck+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vxml": {
+      "fileProInfoType": "application\\/voicexml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".warc": {
+      "fileProInfoType": "application\\/warc",
+      "fileProInfoComment": "WARC"
+    }
+  },
+  {
+    ".hlp": {
+      "fileProInfoType": "application\\/winhlp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wsdl": {
+      "fileProInfoType": "application\\/wsdl+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wspolicy": {
+      "fileProInfoType": "application\\/wspolicy+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tga": {
+      "fileProInfoType": "image\\/x-tga",
+      "fileProInfoComment": "Targa image data"
+    }
+  },
+  {
+    ".icb": {
+      "fileProInfoType": "image\\/x-tga",
+      "fileProInfoComment": "Targa image data"
+    }
+  },
+  {
+    ".vda": {
+      "fileProInfoType": "image\\/x-tga",
+      "fileProInfoComment": "Targa image data"
+    }
+  },
+  {
+    ".abw": {
+      "fileProInfoType": "application\\/x-abiword",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ace": {
+      "fileProInfoType": "application\\/x-ace-compressed",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".axx": {
+      "fileProInfoType": "application\\/x-axcrypt",
+      "fileProInfoComment": "AxCrypt"
+    }
+  },
+  {
+    ".indd": {
+      "fileProInfoType": "application\\/x-adobe-indesign",
+      "fileProInfoComment": "Adobe InDesign document"
+    }
+  },
+  {
+    ".inx": {
+      "fileProInfoType": "application\\/x-adobe-indesign-interchange",
+      "fileProInfoComment": "Adobe InDesign Interchange format"
+    }
+  },
+  {
+    ".dmg": {
+      "fileProInfoType": "application\\/x-apple-diskimage",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cwk": {
+      "fileProInfoType": "application\\/x-appleworks",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ar": {
+      "fileProInfoType": "application\\/x-archive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".a": {
+      "fileProInfoType": "application\\/x-archive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".arj": {
+      "fileProInfoType": "application\\/x-arj",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aab": {
+      "fileProInfoType": "application\\/x-authorware-bin",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".x32": {
+      "fileProInfoType": "application\\/x-authorware-bin",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".u32": {
+      "fileProInfoType": "application\\/x-authorware-bin",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vox": {
+      "fileProInfoType": "application\\/x-authorware-bin",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aam": {
+      "fileProInfoType": "application\\/x-authorware-map",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aas": {
+      "fileProInfoType": "application\\/x-authorware-seg",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bcpio": {
+      "fileProInfoType": "application\\/x-bcpio",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bib": {
+      "fileProInfoType": "application\\/x-bibtex-text-file",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bibtex": {
+      "fileProInfoType": "application\\/x-bibtex-text-file",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".torrent": {
+      "fileProInfoType": "application\\/x-bittorrent",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gtar": {
+      "fileProInfoType": "application\\/x-gtar",
+      "fileProInfoComment": "GNU tar Compressed File Archive (GNU Tape Archive)"
+    }
+  },
+  {
+    ".br": {
+      "fileProInfoType": "application\\/x-brotli",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".brotli": {
+      "fileProInfoType": "application\\/x-brotli",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bz": {
+      "fileProInfoType": "application\\/x-bzip",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tbz": {
+      "fileProInfoType": "application\\/x-bzip",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bz2": {
+      "fileProInfoType": "application\\/x-bzip2",
+      "fileProInfoComment": "Bzip 2 UNIX Compressed File"
+    }
+  },
+  {
+    ".tbz2": {
+      "fileProInfoType": "application\\/x-bzip2",
+      "fileProInfoComment": "Bzip 2 UNIX Compressed File"
+    }
+  },
+  {
+    ".boz": {
+      "fileProInfoType": "application\\/x-bzip2",
+      "fileProInfoComment": "Bzip 2 UNIX Compressed File"
+    }
+  },
+  {
+    ".vcd": {
+      "fileProInfoType": "application\\/x-cdlink",
+      "fileProInfoComment": "Virtual CD-ROM CD Image File"
+    }
+  },
+  {
+    ".chat": {
+      "fileProInfoType": "application\\/x-chat",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pgn": {
+      "fileProInfoType": "application\\/x-chess-pgn",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".crx": {
+      "fileProInfoType": "application\\/x-chrome-package",
+      "fileProInfoComment": "Chrome Extension Package"
+    }
+  },
+  {
+    ".z": {
+      "fileProInfoType": "application\\/x-compress",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".shw": {
+      "fileProInfoType": "application\\/x-corelpresentations",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cpio": {
+      "fileProInfoType": "application\\/x-cpio",
+      "fileProInfoComment": "UNIX CPIO Archive"
+    }
+  },
+  {
+    ".csh": {
+      "fileProInfoType": "application\\/x-csh",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tcsh": {
+      "fileProInfoType": "application\\/x-csh",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".deb": {
+      "fileProInfoType": "application\\/x-debian-package",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".udeb": {
+      "fileProInfoType": "application\\/x-debian-package",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dex": {
+      "fileProInfoType": "application\\/x-dex",
+      "fileProInfoComment": "Dalvik Executable Format"
+    }
+  },
+  {
+    ".dir": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".dcr": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".dxr": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".cst": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".cct": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".cxt": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".w3d": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".fgd": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".swa": {
+      "fileProInfoType": "application\\/x-director",
+      "fileProInfoComment": "Shockwave Movie"
+    }
+  },
+  {
+    ".wad": {
+      "fileProInfoType": "application\\/x-doom",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ncx": {
+      "fileProInfoType": "application\\/x-dtbncx+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dtb": {
+      "fileProInfoType": "application\\/x-dtbook+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".res": {
+      "fileProInfoType": "application\\/x-dtbresource+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dvi": {
+      "fileProInfoType": "application\\/x-dvi",
+      "fileProInfoComment": "TeX Device Independent Document"
+    }
+  },
+  {
+    ".elc": {
+      "fileProInfoType": "application\\/x-elc",
+      "fileProInfoComment": "Emacs Lisp bytecode"
+    }
+  },
+  {
+    ".emlx": {
+      "fileProInfoType": "message\\/x-emlx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".enw": {
+      "fileProInfoType": "application\\/x-endnote-refer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".enr": {
+      "fileProInfoType": "application\\/x-endnote-refer",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".kil": {
+      "fileProInfoType": "application\\/x-killustrator",
+      "fileProInfoComment": "KIllustrator File"
+    }
+  },
+  {
+    ".exe": {
+      "fileProInfoType": "application\\/x-dosexec",
+      "fileProInfoComment": "DOS\\/Windows executable (EXE)"
+    }
+  },
+  {
+    ".hfa": {
+      "fileProInfoType": "application\\/x-erdas-hfa",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fp7": {
+      "fileProInfoType": "application\\/x-filemaker",
+      "fileProInfoComment": "FileMaker Pro 7"
+    }
+  },
+  {
+    ".bdf": {
+      "fileProInfoType": "application\\/x-font-bdf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gsf": {
+      "fileProInfoType": "application\\/x-font-ghostscript",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".psf": {
+      "fileProInfoType": "application\\/x-font-linux-psf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".otf": {
+      "fileProInfoType": "application\\/x-font-otf",
+      "fileProInfoComment": "OpenType Font"
+    }
+  },
+  {
+    ".pcf": {
+      "fileProInfoType": "application\\/x-font-pcf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".snf": {
+      "fileProInfoType": "application\\/x-font-snf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ttf": {
+      "fileProInfoType": "application\\/x-font-ttf",
+      "fileProInfoComment": "TrueType Font"
+    }
+  },
+  {
+    ".ttc": {
+      "fileProInfoType": "application\\/x-font-ttf",
+      "fileProInfoComment": "TrueType Font"
+    }
+  },
+  {
+    ".pfa": {
+      "fileProInfoType": "application\\/x-font-type1",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pfb": {
+      "fileProInfoType": "application\\/x-font-type1",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".afm": {
+      "fileProInfoType": "application\\/x-font-adobe-metric",
+      "fileProInfoComment": "Adobe Font Metric"
+    }
+  },
+  {
+    ".acfm": {
+      "fileProInfoType": "application\\/x-font-adobe-metric",
+      "fileProInfoComment": "Adobe Font Metric"
+    }
+  },
+  {
+    ".amfm": {
+      "fileProInfoType": "application\\/x-font-adobe-metric",
+      "fileProInfoComment": "Adobe Font Metric"
+    }
+  },
+  {
+    ".pfm": {
+      "fileProInfoType": "application\\/x-font-printer-metric",
+      "fileProInfoComment": "Printer Font Metric"
+    }
+  },
+  {
+    ".spl": {
+      "fileProInfoType": "application\\/x-futuresplash",
+      "fileProInfoComment": "Macromedia FutureSplash File"
+    }
+  },
+  {
+    ".gnucash": {
+      "fileProInfoType": "application\\/x-gnucash",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gnumeric": {
+      "fileProInfoType": "application\\/x-gnumeric",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".grb": {
+      "fileProInfoType": "application\\/x-grib",
+      "fileProInfoComment": "General Regularly-distributed Information in Binary form"
+    }
+  },
+  {
+    ".grb1": {
+      "fileProInfoType": "application\\/x-grib",
+      "fileProInfoComment": "General Regularly-distributed Information in Binary form"
+    }
+  },
+  {
+    ".grb2": {
+      "fileProInfoType": "application\\/x-grib",
+      "fileProInfoComment": "General Regularly-distributed Information in Binary form"
+    }
+  },
+  {
+    ".gz": {
+      "fileProInfoType": "application\\/gzip",
+      "fileProInfoComment": "Gzip Compressed Archive"
+    }
+  },
+  {
+    ".tgz": {
+      "fileProInfoType": "application\\/gzip",
+      "fileProInfoComment": "Gzip Compressed Archive"
+    }
+  },
+  {
+    "-gz": {
+      "fileProInfoType": "application\\/gzip",
+      "fileProInfoComment": "Gzip Compressed Archive"
+    }
+  },
+  {
+    ".zstd": {
+      "fileProInfoType": "application\\/zstd",
+      "fileProInfoComment": "https:\\/\\/en.wikipedia.org\\/wiki\\/Zstandard"
+    }
+  },
+  {
+    ".hdf": {
+      "fileProInfoType": "application\\/x-hdf",
+      "fileProInfoComment": "Hierarchical Data Format File"
+    }
+  },
+  {
+    ".he5": {
+      "fileProInfoType": "application\\/x-hdf",
+      "fileProInfoComment": "Hierarchical Data Format File"
+    }
+  },
+  {
+    ".h5": {
+      "fileProInfoType": "application\\/x-hdf",
+      "fileProInfoComment": "Hierarchical Data Format File"
+    }
+  },
+  {
+    ".ibooks": {
+      "fileProInfoType": "application\\/x-ibooks+zip",
+      "fileProInfoComment": "Apple iBooks Author publication format"
+    }
+  },
+  {
+    ".arc": {
+      "fileProInfoType": "application\\/x-internet-archive",
+      "fileProInfoComment": "ARC"
+    }
+  },
+  {
+    "i_.txt": {
+      "fileProInfoType": "application\\/x-isatab-investigation",
+      "fileProInfoComment": "ISA-Tab Investigation file"
+    }
+  },
+  {
+    "s_.txt": {
+      "fileProInfoType": "application\\/x-isatab",
+      "fileProInfoComment": "ISA-Tab Study file"
+    }
+  },
+  {
+    "a_.txt": {
+      "fileProInfoType": "application\\/x-isatab-assay",
+      "fileProInfoComment": "ISA-Tab Assay file"
+    }
+  },
+  {
+    ".iso": {
+      "fileProInfoType": "application\\/x-iso9660-image",
+      "fileProInfoComment": "ISO 9660 CD-ROM filesystem data"
+    }
+  },
+  {
+    ".ipa": {
+      "fileProInfoType": "application\\/x-itunes-ipa",
+      "fileProInfoComment": "Apple iOS IPA AppStore file"
+    }
+  },
+  {
+    ".jnlp": {
+      "fileProInfoType": "application\\/x-java-jnlp-file",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pack": {
+      "fileProInfoType": "application\\/x-java-pack200",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".latex": {
+      "fileProInfoType": "application\\/x-latex",
+      "fileProInfoComment": "LaTeX Source Document"
+    }
+  },
+  {
+    ".lz4": {
+      "fileProInfoType": "application\\/x-lz4",
+      "fileProInfoComment": "First match LZ4 Frame"
+    }
+  },
+  {
+    ".lz": {
+      "fileProInfoType": "application\\/x-lzip",
+      "fileProInfoComment": "Lzip (LZMA) compressed archive"
+    }
+  },
+  {
+    ".lzma": {
+      "fileProInfoType": "application\\/x-lzma",
+      "fileProInfoComment": "LZMA compressed archive"
+    }
+  },
+  {
+    ".prc": {
+      "fileProInfoType": "application\\/x-mobipocket-ebook",
+      "fileProInfoComment": "Mobipocket Ebook"
+    }
+  },
+  {
+    ".mobi": {
+      "fileProInfoType": "application\\/x-mobipocket-ebook",
+      "fileProInfoComment": "Mobipocket Ebook"
+    }
+  },
+  {
+    ".application": {
+      "fileProInfoType": "application\\/x-ms-application",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wmd": {
+      "fileProInfoType": "application\\/x-ms-wmd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wmz": {
+      "fileProInfoType": "application\\/x-ms-wmz",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xbap": {
+      "fileProInfoType": "application\\/x-ms-xbap",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mdb": {
+      "fileProInfoType": "application\\/x-msaccess",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".obd": {
+      "fileProInfoType": "application\\/x-msbinder",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".crd": {
+      "fileProInfoType": "application\\/x-mscardfile",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".clp": {
+      "fileProInfoType": "application\\/x-msclip",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dll": {
+      "fileProInfoType": "application\\/x-msdownload",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".com": {
+      "fileProInfoType": "application\\/x-msdownload",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".msi": {
+      "fileProInfoType": "application\\/x-ms-installer",
+      "fileProInfoComment": "Microsoft Windows Installer"
+    }
+  },
+  {
+    ".msp": {
+      "fileProInfoType": "application\\/x-ms-installer",
+      "fileProInfoComment": "Microsoft Windows Installer"
+    }
+  },
+  {
+    ".mst": {
+      "fileProInfoType": "application\\/x-ms-installer",
+      "fileProInfoComment": "Microsoft Windows Installer"
+    }
+  },
+  {
+    ".mvb": {
+      "fileProInfoType": "application\\/x-msmediaview",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m13": {
+      "fileProInfoType": "application\\/x-msmediaview",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m14": {
+      "fileProInfoType": "application\\/x-msmediaview",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mny": {
+      "fileProInfoType": "application\\/x-msmoney",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pub": {
+      "fileProInfoType": "application\\/x-mspublisher",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".scd": {
+      "fileProInfoType": "application\\/x-msschedule",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".trm": {
+      "fileProInfoType": "application\\/x-msterminal",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wri": {
+      "fileProInfoType": "application\\/x-mswrite",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".MYI": {
+      "fileProInfoType": "application\\/x-mysql-misam-compressed-index",
+      "fileProInfoComment": "MySQL MISAM Compressed Index"
+    }
+  },
+  {
+    ".MYD": {
+      "fileProInfoType": "application\\/x-mysql-misam-data",
+      "fileProInfoComment": "MySQL MISAM Data"
+    }
+  },
+  {
+    ".nc": {
+      "fileProInfoType": "application\\/x-netcdf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cdf": {
+      "fileProInfoType": "application\\/x-netcdf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".p12": {
+      "fileProInfoType": "application\\/x-pkcs12",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pfx": {
+      "fileProInfoType": "application\\/x-pkcs12",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".p7b": {
+      "fileProInfoType": "application\\/x-pkcs7-certificates",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".spc": {
+      "fileProInfoType": "application\\/x-pkcs7-certificates",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".p7r": {
+      "fileProInfoType": "application\\/x-pkcs7-certreqresp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".prt": {
+      "fileProInfoType": "application\\/x-prt",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wq1": {
+      "fileProInfoType": "application\\/x-quattro-pro",
+      "fileProInfoComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wq2": {
+      "fileProInfoType": "application\\/x-quattro-pro",
+      "fileProInfoComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wkq": {
+      "fileProInfoType": "application\\/x-quattro-pro",
+      "fileProInfoComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".qpw": {
+      "fileProInfoType": "application\\/x-quattro-pro",
+      "fileProInfoComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wb1": {
+      "fileProInfoType": "application\\/x-quattro-pro",
+      "fileProInfoComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wb2": {
+      "fileProInfoType": "application\\/x-quattro-pro",
+      "fileProInfoComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wb3": {
+      "fileProInfoType": "application\\/x-quattro-pro",
+      "fileProInfoComment": "\n      Quattro Pro - Corel Spreadsheet (part of WordPerfect Office suite)\n    "
+    }
+  },
+  {
+    ".wq1": {
+      "fileProInfoType": "application\\/x-quattro-pro;version=1-4",
+      "fileProInfoComment": "Quattro Pro for DOS, version 1-4"
+    }
+  },
+  {
+    ".wkq": {
+      "fileProInfoType": "application\\/x-quattro-pro;version=1-4",
+      "fileProInfoComment": "Quattro Pro for DOS, version 1-4"
+    }
+  },
+  {
+    ".wq2": {
+      "fileProInfoType": "application\\/x-quattro-pro;version=5",
+      "fileProInfoComment": "Quattro Pro for DOS, version 5"
+    }
+  },
+  {
+    ".wkq": {
+      "fileProInfoType": "application\\/x-quattro-pro;version=5",
+      "fileProInfoComment": "Quattro Pro for DOS, version 5"
+    }
+  },
+  {
+    ".wb1": {
+      "fileProInfoType": "application\\/x-quattro-pro;version=1+5",
+      "fileProInfoComment": "Quattro Pro for Windows, version 1, 5"
+    }
+  },
+  {
+    ".wb2": {
+      "fileProInfoType": "application\\/x-quattro-pro;version=6",
+      "fileProInfoComment": "Quattro Pro for Windows, version 6"
+    }
+  },
+  {
+    ".xq": {
+      "fileProInfoType": "application\\/xquery",
+      "fileProInfoComment": "XQuery source code"
+    }
+  },
+  {
+    ".xquery": {
+      "fileProInfoType": "application\\/xquery",
+      "fileProInfoComment": "XQuery source code"
+    }
+  },
+  {
+    ".rar": {
+      "fileProInfoType": "application\\/x-rar-compressed",
+      "fileProInfoComment": "RAR archive"
+    }
+  },
+  {
+    ".toast": {
+      "fileProInfoType": "application\\/x-roxio-toast",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rpm": {
+      "fileProInfoType": "application\\/x-rpm",
+      "fileProInfoComment": "RedHat Package Manager"
+    }
+  },
+  {
+    ".sas": {
+      "fileProInfoType": "application\\/x-sas",
+      "fileProInfoComment": "SAS Program"
+    }
+  },
+  {
+    ".ss7": {
+      "fileProInfoType": "application\\/x-sas-program-data",
+      "fileProInfoComment": "SAS Stored Program (DATA Step)"
+    }
+  },
+  {
+    ".sas7bpgm": {
+      "fileProInfoType": "application\\/x-sas-program-data",
+      "fileProInfoComment": "SAS Stored Program (DATA Step)"
+    }
+  },
+  {
+    ".st7": {
+      "fileProInfoType": "application\\/x-sas-audit",
+      "fileProInfoComment": "SAS Audit"
+    }
+  },
+  {
+    ".sas7baud": {
+      "fileProInfoType": "application\\/x-sas-audit",
+      "fileProInfoComment": "SAS Audit"
+    }
+  },
+  {
+    ".sd2": {
+      "fileProInfoType": "application\\/x-sas-data-v6",
+      "fileProInfoComment": "SAS v6 Data Set"
+    }
+  },
+  {
+    ".sd7": {
+      "fileProInfoType": "application\\/x-sas-data",
+      "fileProInfoComment": "SAS Data Set"
+    }
+  },
+  {
+    ".sas7bdat": {
+      "fileProInfoType": "application\\/x-sas-data",
+      "fileProInfoComment": "SAS Data Set"
+    }
+  },
+  {
+    ".sv7": {
+      "fileProInfoType": "application\\/x-sas-view",
+      "fileProInfoComment": "SAS Data Set View"
+    }
+  },
+  {
+    ".sas7bvew": {
+      "fileProInfoType": "application\\/x-sas-view",
+      "fileProInfoComment": "SAS Data Set View"
+    }
+  },
+  {
+    ".si7": {
+      "fileProInfoType": "application\\/x-sas-data-index",
+      "fileProInfoComment": "SAS Data Set Index"
+    }
+  },
+  {
+    ".sas7bndx": {
+      "fileProInfoType": "application\\/x-sas-data-index",
+      "fileProInfoComment": "SAS Data Set Index"
+    }
+  },
+  {
+    ".sc7": {
+      "fileProInfoType": "application\\/x-sas-catalog",
+      "fileProInfoComment": "SAS Catalog"
+    }
+  },
+  {
+    ".sas7bcat": {
+      "fileProInfoType": "application\\/x-sas-catalog",
+      "fileProInfoComment": "SAS Catalog"
+    }
+  },
+  {
+    ".sa7": {
+      "fileProInfoType": "application\\/x-sas-access",
+      "fileProInfoComment": "SAS Access Descriptor"
+    }
+  },
+  {
+    ".sas7bacs": {
+      "fileProInfoType": "application\\/x-sas-access",
+      "fileProInfoComment": "SAS Access Descriptor"
+    }
+  },
+  {
+    ".sf7": {
+      "fileProInfoType": "application\\/x-sas-fdb",
+      "fileProInfoComment": "SAS FDB Consolidation Database File"
+    }
+  },
+  {
+    ".sas7bfdb": {
+      "fileProInfoType": "application\\/x-sas-fdb",
+      "fileProInfoComment": "SAS FDB Consolidation Database File"
+    }
+  },
+  {
+    ".sm7": {
+      "fileProInfoType": "application\\/x-sas-mddb",
+      "fileProInfoComment": "SAS MDDB Multi-Dimensional Database File"
+    }
+  },
+  {
+    ".sas7bmdb": {
+      "fileProInfoType": "application\\/x-sas-mddb",
+      "fileProInfoComment": "SAS MDDB Multi-Dimensional Database File"
+    }
+  },
+  {
+    ".s7m": {
+      "fileProInfoType": "application\\/x-sas-dmdb",
+      "fileProInfoComment": "SAS DMDB Data Mining Database File"
+    }
+  },
+  {
+    ".sas7bdmd": {
+      "fileProInfoType": "application\\/x-sas-dmdb",
+      "fileProInfoComment": "SAS DMDB Data Mining Database File"
+    }
+  },
+  {
+    ".sr7": {
+      "fileProInfoType": "application\\/x-sas-itemstor",
+      "fileProInfoComment": "SAS Item Store (ItemStor) File"
+    }
+  },
+  {
+    ".sas7bitm": {
+      "fileProInfoType": "application\\/x-sas-itemstor",
+      "fileProInfoComment": "SAS Item Store (ItemStor) File"
+    }
+  },
+  {
+    ".su7": {
+      "fileProInfoType": "application\\/x-sas-utility",
+      "fileProInfoComment": "SAS Utility"
+    }
+  },
+  {
+    ".sas7butl": {
+      "fileProInfoType": "application\\/x-sas-utility",
+      "fileProInfoComment": "SAS Utility"
+    }
+  },
+  {
+    ".sp7": {
+      "fileProInfoType": "application\\/x-sas-putility",
+      "fileProInfoComment": "SAS Permanent Utility"
+    }
+  },
+  {
+    ".sas7bput": {
+      "fileProInfoType": "application\\/x-sas-putility",
+      "fileProInfoComment": "SAS Permanent Utility"
+    }
+  },
+  {
+    ".stx": {
+      "fileProInfoType": "application\\/x-sas-transport",
+      "fileProInfoComment": "SAS Transport File"
+    }
+  },
+  {
+    ".sas7bbak": {
+      "fileProInfoType": "application\\/x-sas-backup",
+      "fileProInfoComment": "SAS Backup"
+    }
+  },
+  {
+    ".xpt": {
+      "fileProInfoType": "application\\/x-sas-xport",
+      "fileProInfoComment": "SAS XPORT Transfer File"
+    }
+  },
+  {
+    ".xport": {
+      "fileProInfoType": "application\\/x-sas-xport",
+      "fileProInfoComment": "SAS XPORT Transfer File"
+    }
+  },
+  {
+    ".sh": {
+      "fileProInfoType": "application\\/x-sh",
+      "fileProInfoComment": "UNIX\\/LINUX Shell Script"
+    }
+  },
+  {
+    ".bash": {
+      "fileProInfoType": "application\\/x-sh",
+      "fileProInfoComment": "UNIX\\/LINUX Shell Script"
+    }
+  },
+  {
+    ".shar": {
+      "fileProInfoType": "application\\/x-shar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".shp": {
+      "fileProInfoType": "application\\/x-shapefile",
+      "fileProInfoComment": "ESRI Shapefiles"
+    }
+  },
+  {
+    ".swf": {
+      "fileProInfoType": "application\\/x-shockwave-flash",
+      "fileProInfoComment": "Adobe Flash"
+    }
+  },
+  {
+    ".xap": {
+      "fileProInfoType": "application\\/x-silverlight-app",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sz": {
+      "fileProInfoType": "application\\/x-snappy-framed",
+      "fileProInfoComment": "Snappy Framed"
+    }
+  },
+  {
+    ".sfdu": {
+      "fileProInfoType": "application\\/x-sfdu",
+      "fileProInfoComment": "Standard Formatted Data Units (SFDUs) data"
+    }
+  },
+  {
+    ".do": {
+      "fileProInfoType": "application\\/x-stata-do",
+      "fileProInfoComment": "Stata DTA Script"
+    }
+  },
+  {
+    ".dta": {
+      "fileProInfoType": "application\\/x-stata-dta",
+      "fileProInfoComment": "Stata DTA Dataset"
+    }
+  },
+  {
+    ".sit": {
+      "fileProInfoType": "application\\/x-stuffit",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sitx": {
+      "fileProInfoType": "application\\/x-stuffitx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sv4cpio": {
+      "fileProInfoType": "application\\/x-sv4cpio",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sv4crc": {
+      "fileProInfoType": "application\\/x-sv4crc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tar": {
+      "fileProInfoType": "application\\/x-tar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tex": {
+      "fileProInfoType": "application\\/x-tex",
+      "fileProInfoComment": "TeX Source"
+    }
+  },
+  {
+    ".tfm": {
+      "fileProInfoType": "application\\/x-tex-tfm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".texinfo": {
+      "fileProInfoType": "application\\/x-texinfo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".texi": {
+      "fileProInfoType": "application\\/x-texinfo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xlr": {
+      "fileProInfoType": "application\\/x-tika-msworks-spreadsheet",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".uc2": {
+      "fileProInfoType": "application\\/x-uc2-compressed",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ustar": {
+      "fileProInfoType": "application\\/x-ustar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vmdk": {
+      "fileProInfoType": "application\\/x-vmdk",
+      "fileProInfoComment": "Virtual Disk Format"
+    }
+  },
+  {
+    ".src": {
+      "fileProInfoType": "application\\/x-wais-source",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".webarchive": {
+      "fileProInfoType": "application\\/x-webarchive",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".der": {
+      "fileProInfoType": "application\\/x-x509-ca-cert",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".crt": {
+      "fileProInfoType": "application\\/x-x509-ca-cert",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fig": {
+      "fileProInfoType": "application\\/x-xfig",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xpi": {
+      "fileProInfoType": "application\\/x-xpinstall",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xmind": {
+      "fileProInfoType": "application\\/x-xmind",
+      "fileProInfoComment": "XMind Pro"
+    }
+  },
+  {
+    ".xz": {
+      "fileProInfoType": "application\\/x-xz",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".zoo": {
+      "fileProInfoType": "application\\/x-zoo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xenc": {
+      "fileProInfoType": "application\\/xenc+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xhtml": {
+      "fileProInfoType": "application\\/xhtml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xhtml2": {
+      "fileProInfoType": "application\\/xhtml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xht": {
+      "fileProInfoType": "application\\/xhtml+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xml": {
+      "fileProInfoType": "application\\/xml",
+      "fileProInfoComment": "Extensible Markup Language"
+    }
+  },
+  {
+    ".xsl": {
+      "fileProInfoType": "application\\/xml",
+      "fileProInfoComment": "Extensible Markup Language"
+    }
+  },
+  {
+    ".xsd": {
+      "fileProInfoType": "application\\/xml",
+      "fileProInfoComment": "Extensible Markup Language"
+    }
+  },
+  {
+    ".dtd": {
+      "fileProInfoType": "application\\/xml-dtd",
+      "fileProInfoComment": "XML Document Type Definition"
+    }
+  },
+  {
+    ".xop": {
+      "fileProInfoType": "application\\/xop+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xslfo": {
+      "fileProInfoType": "application\\/xslfo+xml",
+      "fileProInfoComment": "XSL Format"
+    }
+  },
+  {
+    ".fo": {
+      "fileProInfoType": "application\\/xslfo+xml",
+      "fileProInfoComment": "XSL Format"
+    }
+  },
+  {
+    ".xslt": {
+      "fileProInfoType": "application\\/xslt+xml",
+      "fileProInfoComment": "XSL Transformations"
+    }
+  },
+  {
+    ".xspf": {
+      "fileProInfoType": "application\\/xspf+xml",
+      "fileProInfoComment": "XML Shareable Playlist Format"
+    }
+  },
+  {
+    ".mxml": {
+      "fileProInfoType": "application\\/xv+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xhvml": {
+      "fileProInfoType": "application\\/xv+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xvml": {
+      "fileProInfoType": "application\\/xv+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xvm": {
+      "fileProInfoType": "application\\/xv+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".zip": {
+      "fileProInfoType": "application\\/zip",
+      "fileProInfoComment": "Compressed Archive File"
+    }
+  },
+  {
+    ".7z": {
+      "fileProInfoType": "application\\/x-7z-compressed",
+      "fileProInfoComment": "7-zip archive"
+    }
+  },
+  {
+    ".ac3": {
+      "fileProInfoType": "audio\\/ac3",
+      "fileProInfoComment": "Dolby Digital Audio Compression File"
+    }
+  },
+  {
+    ".adp": {
+      "fileProInfoType": "audio\\/adpcm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".amr": {
+      "fileProInfoType": "audio\\/amr",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".au": {
+      "fileProInfoType": "audio\\/basic",
+      "fileProInfoComment": "uLaw\\/AU Audio File"
+    }
+  },
+  {
+    ".snd": {
+      "fileProInfoType": "audio\\/basic",
+      "fileProInfoComment": "uLaw\\/AU Audio File"
+    }
+  },
+  {
+    ".mid": {
+      "fileProInfoType": "audio\\/midi",
+      "fileProInfoComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".midi": {
+      "fileProInfoType": "audio\\/midi",
+      "fileProInfoComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".kar": {
+      "fileProInfoType": "audio\\/midi",
+      "fileProInfoComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".rmi": {
+      "fileProInfoType": "audio\\/midi",
+      "fileProInfoComment": "Musical Instrument Digital Interface"
+    }
+  },
+  {
+    ".mp4a": {
+      "fileProInfoType": "audio\\/mp4",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m4a": {
+      "fileProInfoType": "audio\\/mp4",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m4b": {
+      "fileProInfoType": "audio\\/mp4",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpga": {
+      "fileProInfoType": "audio\\/mpeg",
+      "fileProInfoComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".mp2": {
+      "fileProInfoType": "audio\\/mpeg",
+      "fileProInfoComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".mp2a": {
+      "fileProInfoType": "audio\\/mpeg",
+      "fileProInfoComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".mp3": {
+      "fileProInfoType": "audio\\/mpeg",
+      "fileProInfoComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".m2a": {
+      "fileProInfoType": "audio\\/mpeg",
+      "fileProInfoComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".m3a": {
+      "fileProInfoType": "audio\\/mpeg",
+      "fileProInfoComment": "MPEG-1 Audio Layer 3"
+    }
+  },
+  {
+    ".oga": {
+      "fileProInfoType": "audio\\/ogg",
+      "fileProInfoComment": "Ogg Vorbis Audio"
+    }
+  },
+  {
+    ".ogg": {
+      "fileProInfoType": "audio\\/vorbis",
+      "fileProInfoComment": "Ogg Vorbis Codec Compressed WAV File"
+    }
+  },
+  {
+    ".opus": {
+      "fileProInfoType": "audio\\/opus",
+      "fileProInfoComment": "Ogg Opus Codec Compressed WAV File"
+    }
+  },
+  {
+    ".spx": {
+      "fileProInfoType": "audio\\/speex",
+      "fileProInfoComment": "Ogg Speex Codec Compressed WAV File"
+    }
+  },
+  {
+    ".asnd": {
+      "fileProInfoType": "audio\\/vnd.adobe.soundbooth",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".eol": {
+      "fileProInfoType": "audio\\/vnd.digital-winds",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dts": {
+      "fileProInfoType": "audio\\/vnd.dts",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dtshd": {
+      "fileProInfoType": "audio\\/vnd.dts.hd",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".lvp": {
+      "fileProInfoType": "audio\\/vnd.lucent.voice",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pya": {
+      "fileProInfoType": "audio\\/vnd.ms-playready.media.pya",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ecelp4800": {
+      "fileProInfoType": "audio\\/vnd.nuera.ecelp4800",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ecelp7470": {
+      "fileProInfoType": "audio\\/vnd.nuera.ecelp7470",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ecelp9600": {
+      "fileProInfoType": "audio\\/vnd.nuera.ecelp9600",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aac": {
+      "fileProInfoType": "audio\\/x-aac",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aif": {
+      "fileProInfoType": "audio\\/x-aiff",
+      "fileProInfoComment": "Audio Interchange File Format"
+    }
+  },
+  {
+    ".aiff": {
+      "fileProInfoType": "audio\\/x-aiff",
+      "fileProInfoComment": "Audio Interchange File Format"
+    }
+  },
+  {
+    ".aifc": {
+      "fileProInfoType": "audio\\/x-aiff",
+      "fileProInfoComment": "Audio Interchange File Format"
+    }
+  },
+  {
+    ".caf": {
+      "fileProInfoType": "audio\\/x-caf",
+      "fileProInfoComment": "Core Audio Format"
+    }
+  },
+  {
+    ".flac": {
+      "fileProInfoType": "audio\\/x-flac",
+      "fileProInfoComment": "Free Lossless Audio Codec"
+    }
+  },
+  {
+    ".mod": {
+      "fileProInfoType": "audio\\/x-mod",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m3u": {
+      "fileProInfoType": "audio\\/x-mpegurl",
+      "fileProInfoComment": "MP3 Playlist File"
+    }
+  },
+  {
+    ".wax": {
+      "fileProInfoType": "audio\\/x-ms-wax",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wma": {
+      "fileProInfoType": "audio\\/x-ms-wma",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ram": {
+      "fileProInfoType": "audio\\/x-pn-realaudio",
+      "fileProInfoComment": "Real Audio"
+    }
+  },
+  {
+    ".ra": {
+      "fileProInfoType": "audio\\/x-pn-realaudio",
+      "fileProInfoComment": "Real Audio"
+    }
+  },
+  {
+    ".rmp": {
+      "fileProInfoType": "audio\\/x-pn-realaudio-plugin",
+      "fileProInfoComment": "RealMedia Player Plug-in"
+    }
+  },
+  {
+    ".wav": {
+      "fileProInfoType": "audio\\/vnd.wave",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cdx": {
+      "fileProInfoType": "chemical\\/x-cdx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cif": {
+      "fileProInfoType": "chemical\\/x-cif",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cmdf": {
+      "fileProInfoType": "chemical\\/x-cmdf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cml": {
+      "fileProInfoType": "chemical\\/x-cml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".csml": {
+      "fileProInfoType": "chemical\\/x-csml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pdb": {
+      "fileProInfoType": "chemical\\/x-pdb",
+      "fileProInfoComment": "Brookhaven Protein Databank File"
+    }
+  },
+  {
+    ".xyz": {
+      "fileProInfoType": "chemical\\/x-xyz",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".exr": {
+      "fileProInfoType": "image\\/aces",
+      "fileProInfoComment": "ACES Image Container File"
+    }
+  },
+  {
+    ".bmp": {
+      "fileProInfoType": "image\\/bmp",
+      "fileProInfoComment": "Windows bitmap"
+    }
+  },
+  {
+    ".dib": {
+      "fileProInfoType": "image\\/bmp",
+      "fileProInfoComment": "Windows bitmap"
+    }
+  },
+  {
+    ".bpg": {
+      "fileProInfoType": "image\\/x-bpg",
+      "fileProInfoComment": "Better Portable Graphics"
+    }
+  },
+  {
+    ".cgm": {
+      "fileProInfoType": "image\\/cgm",
+      "fileProInfoComment": "Computer Graphics Metafile"
+    }
+  },
+  {
+    ".dpx": {
+      "fileProInfoType": "image\\/x-dpx",
+      "fileProInfoComment": "Digital Picture Exchange from SMPTE"
+    }
+  },
+  {
+    ".emf": {
+      "fileProInfoType": "image\\/emf",
+      "fileProInfoComment": "Enhanced Metafile"
+    }
+  },
+  {
+    ".emz": {
+      "fileProInfoType": "image\\/x-emf-compressed",
+      "fileProInfoComment": "Compressed Enhanced Metafile"
+    }
+  },
+  {
+    ".g3": {
+      "fileProInfoType": "image\\/g3fax",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gif": {
+      "fileProInfoType": "image\\/gif",
+      "fileProInfoComment": "Graphics Interchange Format"
+    }
+  },
+  {
+    ".icns": {
+      "fileProInfoType": "image\\/icns",
+      "fileProInfoComment": "Apple Icon Image Format"
+    }
+  },
+  {
+    ".ief": {
+      "fileProInfoType": "image\\/ief",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jp2": {
+      "fileProInfoType": "image\\/jp2",
+      "fileProInfoComment": "JPEG 2000 Part 1 (JP2)"
+    }
+  },
+  {
+    ".jpg": {
+      "fileProInfoType": "image\\/jpeg",
+      "fileProInfoComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jpeg": {
+      "fileProInfoType": "image\\/jpeg",
+      "fileProInfoComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jpe": {
+      "fileProInfoType": "image\\/jpeg",
+      "fileProInfoComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jif": {
+      "fileProInfoType": "image\\/jpeg",
+      "fileProInfoComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jfif": {
+      "fileProInfoType": "image\\/jpeg",
+      "fileProInfoComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jfi": {
+      "fileProInfoType": "image\\/jpeg",
+      "fileProInfoComment": "Joint Photographic Experts Group"
+    }
+  },
+  {
+    ".jpm": {
+      "fileProInfoType": "image\\/jpm",
+      "fileProInfoComment": "JPEG 2000 Part 6 (JPM)"
+    }
+  },
+  {
+    ".jpgm": {
+      "fileProInfoType": "image\\/jpm",
+      "fileProInfoComment": "JPEG 2000 Part 6 (JPM)"
+    }
+  },
+  {
+    ".jpf": {
+      "fileProInfoType": "image\\/jpx",
+      "fileProInfoComment": "JPEG 2000 Part 2 (JPX)"
+    }
+  },
+  {
+    ".ntf": {
+      "fileProInfoType": "image\\/nitf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".nitf": {
+      "fileProInfoType": "image\\/nitf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".png": {
+      "fileProInfoType": "image\\/png",
+      "fileProInfoComment": "Portable Network Graphics"
+    }
+  },
+  {
+    ".btif": {
+      "fileProInfoType": "image\\/prs.btif",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".svg": {
+      "fileProInfoType": "image\\/svg+xml",
+      "fileProInfoComment": "Scalable Vector Graphics"
+    }
+  },
+  {
+    ".svgz": {
+      "fileProInfoType": "image\\/svg+xml",
+      "fileProInfoComment": "Scalable Vector Graphics"
+    }
+  },
+  {
+    ".tiff": {
+      "fileProInfoType": "image\\/tiff",
+      "fileProInfoComment": "Tagged Image File Format"
+    }
+  },
+  {
+    ".tif": {
+      "fileProInfoType": "image\\/tiff",
+      "fileProInfoComment": "Tagged Image File Format"
+    }
+  },
+  {
+    ".psd": {
+      "fileProInfoType": "image\\/vnd.adobe.photoshop",
+      "fileProInfoComment": "Photoshop Image"
+    }
+  },
+  {
+    ".ppj": {
+      "fileProInfoType": "image\\/vnd.adobe.premiere",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".djvu": {
+      "fileProInfoType": "image\\/vnd.djvu",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".djv": {
+      "fileProInfoType": "image\\/vnd.djvu",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dwg": {
+      "fileProInfoType": "image\\/vnd.dwg",
+      "fileProInfoComment": "AutoCad Drawing"
+    }
+  },
+  {
+    ".dxb": {
+      "fileProInfoType": "image\\/vnd.dxb",
+      "fileProInfoComment": "AutoCAD DXF simplified Binary"
+    }
+  },
+  {
+    ".dxf": {
+      "fileProInfoType": "image\\/vnd.dxf",
+      "fileProInfoComment": "AutoCAD DXF"
+    }
+  },
+  {
+    ".fbs": {
+      "fileProInfoType": "image\\/vnd.fastbidsheet",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fpx": {
+      "fileProInfoType": "image\\/vnd.fpx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fst": {
+      "fileProInfoType": "image\\/vnd.fst",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mmr": {
+      "fileProInfoType": "image\\/vnd.fujixerox.edmics-mmr",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rlc": {
+      "fileProInfoType": "image\\/vnd.fujixerox.edmics-rlc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ico": {
+      "fileProInfoType": "image\\/vnd.microsoft.icon",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mdi": {
+      "fileProInfoType": "image\\/vnd.ms-modi",
+      "fileProInfoComment": "Microsoft Document Imaging"
+    }
+  },
+  {
+    ".npx": {
+      "fileProInfoType": "image\\/vnd.net-fpx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wbmp": {
+      "fileProInfoType": "image\\/vnd.wap.wbmp",
+      "fileProInfoComment": "Wireless Bitmap File Format"
+    }
+  },
+  {
+    ".dcx": {
+      "fileProInfoType": "image\\/vnd.zbrush.dcx",
+      "fileProInfoComment": "ZSoft Multi-Page Paintbrush"
+    }
+  },
+  {
+    ".pcx": {
+      "fileProInfoType": "image\\/vnd.zbrush.pcx",
+      "fileProInfoComment": "ZSoft Paintbrush PiCture eXchange"
+    }
+  },
+  {
+    ".webp": {
+      "fileProInfoType": "image\\/webp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wmf": {
+      "fileProInfoType": "image\\/wmf",
+      "fileProInfoComment": "Windows Metafile"
+    }
+  },
+  {
+    ".xif": {
+      "fileProInfoType": "image\\/vnd.xiff",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ras": {
+      "fileProInfoType": "image\\/x-cmu-raster",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cmx": {
+      "fileProInfoType": "image\\/x-cmx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fh": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fhc": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh4": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh40": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh5": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh50": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh7": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh8": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh9": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh10": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh11": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".fh12": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft7": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft8": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft9": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft10": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft11": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".ft12": {
+      "fileProInfoType": "image\\/x-freehand",
+      "fileProInfoComment": "FreeHand image"
+    }
+  },
+  {
+    ".jb2": {
+      "fileProInfoType": "image\\/x-jbig2",
+      "fileProInfoComment": "\n      A lossless image compression standard from the\n      Joint Bi-level Image Experts Group.\n    "
+    }
+  },
+  {
+    ".jbig2": {
+      "fileProInfoType": "image\\/x-jbig2",
+      "fileProInfoComment": "\n      A lossless image compression standard from the\n      Joint Bi-level Image Experts Group.\n    "
+    }
+  },
+  {
+    ".j2c": {
+      "fileProInfoType": "image\\/x-jp2-codestream",
+      "fileProInfoComment": "JPEG 2000 Codestream"
+    }
+  },
+  {
+    ".pic": {
+      "fileProInfoType": "image\\/x-pict",
+      "fileProInfoComment": "Apple Macintosh QuickDraw\\/PICT Format"
+    }
+  },
+  {
+    ".pct": {
+      "fileProInfoType": "image\\/x-pict",
+      "fileProInfoComment": "Apple Macintosh QuickDraw\\/PICT Format"
+    }
+  },
+  {
+    ".pict": {
+      "fileProInfoType": "image\\/x-pict",
+      "fileProInfoComment": "Apple Macintosh QuickDraw\\/PICT Format"
+    }
+  },
+  {
+    ".pnm": {
+      "fileProInfoType": "image\\/x-portable-anymap",
+      "fileProInfoComment": "Portable Any Map"
+    }
+  },
+  {
+    ".pbm": {
+      "fileProInfoType": "image\\/x-portable-bitmap",
+      "fileProInfoComment": "Portable Bit Map"
+    }
+  },
+  {
+    ".pgm": {
+      "fileProInfoType": "image\\/x-portable-graymap",
+      "fileProInfoComment": "Portable Graymap Graphic"
+    }
+  },
+  {
+    ".ppm": {
+      "fileProInfoType": "image\\/x-portable-pixmap",
+      "fileProInfoComment": "UNIX Portable Bitmap Graphic"
+    }
+  },
+  {
+    ".dng": {
+      "fileProInfoType": "image\\/x-raw-adobe",
+      "fileProInfoComment": "Adobe Digital Negative"
+    }
+  },
+  {
+    ".3fr": {
+      "fileProInfoType": "image\\/x-raw-hasselblad",
+      "fileProInfoComment": "Hasselblad raw image"
+    }
+  },
+  {
+    ".raf": {
+      "fileProInfoType": "image\\/x-raw-fuji",
+      "fileProInfoComment": "Fuji raw image"
+    }
+  },
+  {
+    ".crw": {
+      "fileProInfoType": "image\\/x-raw-canon",
+      "fileProInfoComment": "Canon raw image"
+    }
+  },
+  {
+    ".cr2": {
+      "fileProInfoType": "image\\/x-raw-canon",
+      "fileProInfoComment": "Canon raw image"
+    }
+  },
+  {
+    ".k25": {
+      "fileProInfoType": "image\\/x-raw-kodak",
+      "fileProInfoComment": "Kodak raw image"
+    }
+  },
+  {
+    ".kdc": {
+      "fileProInfoType": "image\\/x-raw-kodak",
+      "fileProInfoComment": "Kodak raw image"
+    }
+  },
+  {
+    ".dcs": {
+      "fileProInfoType": "image\\/x-raw-kodak",
+      "fileProInfoComment": "Kodak raw image"
+    }
+  },
+  {
+    ".drf": {
+      "fileProInfoType": "image\\/x-raw-kodak",
+      "fileProInfoComment": "Kodak raw image"
+    }
+  },
+  {
+    ".mrw": {
+      "fileProInfoType": "image\\/x-raw-minolta",
+      "fileProInfoComment": "Minolta raw image"
+    }
+  },
+  {
+    ".nef": {
+      "fileProInfoType": "image\\/x-raw-nikon",
+      "fileProInfoComment": "Nikon raw image"
+    }
+  },
+  {
+    ".nrw": {
+      "fileProInfoType": "image\\/x-raw-nikon",
+      "fileProInfoComment": "Nikon raw image"
+    }
+  },
+  {
+    ".orf": {
+      "fileProInfoType": "image\\/x-raw-olympus",
+      "fileProInfoComment": "Olympus raw image"
+    }
+  },
+  {
+    ".ptx": {
+      "fileProInfoType": "image\\/x-raw-pentax",
+      "fileProInfoComment": "Pentax raw image"
+    }
+  },
+  {
+    ".pef": {
+      "fileProInfoType": "image\\/x-raw-pentax",
+      "fileProInfoComment": "Pentax raw image"
+    }
+  },
+  {
+    ".arw": {
+      "fileProInfoType": "image\\/x-raw-sony",
+      "fileProInfoComment": "Sony raw image"
+    }
+  },
+  {
+    ".srf": {
+      "fileProInfoType": "image\\/x-raw-sony",
+      "fileProInfoComment": "Sony raw image"
+    }
+  },
+  {
+    ".sr2": {
+      "fileProInfoType": "image\\/x-raw-sony",
+      "fileProInfoComment": "Sony raw image"
+    }
+  },
+  {
+    ".x3f": {
+      "fileProInfoType": "image\\/x-raw-sigma",
+      "fileProInfoComment": "Sigma raw image"
+    }
+  },
+  {
+    ".erf": {
+      "fileProInfoType": "image\\/x-raw-epson",
+      "fileProInfoComment": "Epson raw image"
+    }
+  },
+  {
+    ".mef": {
+      "fileProInfoType": "image\\/x-raw-mamiya",
+      "fileProInfoComment": "Mamiya raw image"
+    }
+  },
+  {
+    ".mos": {
+      "fileProInfoType": "image\\/x-raw-leaf",
+      "fileProInfoComment": "Leaf raw image"
+    }
+  },
+  {
+    ".raw": {
+      "fileProInfoType": "image\\/x-raw-panasonic",
+      "fileProInfoComment": "Panasonic raw image"
+    }
+  },
+  {
+    ".rw2": {
+      "fileProInfoType": "image\\/x-raw-panasonic",
+      "fileProInfoComment": "Panasonic raw image"
+    }
+  },
+  {
+    ".iiq": {
+      "fileProInfoType": "image\\/x-raw-phaseone",
+      "fileProInfoComment": "Phase One raw image"
+    }
+  },
+  {
+    ".r3d": {
+      "fileProInfoType": "image\\/x-raw-red",
+      "fileProInfoComment": "Red raw image"
+    }
+  },
+  {
+    ".fff": {
+      "fileProInfoType": "image\\/x-raw-imacon",
+      "fileProInfoComment": "Imacon raw image"
+    }
+  },
+  {
+    ".pxn": {
+      "fileProInfoType": "image\\/x-raw-logitech",
+      "fileProInfoComment": "Logitech raw image"
+    }
+  },
+  {
+    ".bay": {
+      "fileProInfoType": "image\\/x-raw-casio",
+      "fileProInfoComment": "Casio raw image"
+    }
+  },
+  {
+    ".rwz": {
+      "fileProInfoType": "image\\/x-raw-rawzor",
+      "fileProInfoComment": "Rawzor raw image"
+    }
+  },
+  {
+    ".rgb": {
+      "fileProInfoType": "image\\/x-rgb",
+      "fileProInfoComment": "Silicon Graphics RGB Bitmap"
+    }
+  },
+  {
+    ".xbm": {
+      "fileProInfoType": "image\\/x-xbitmap",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xcf": {
+      "fileProInfoType": "image\\/x-xcf",
+      "fileProInfoComment": "GIMP Image File"
+    }
+  },
+  {
+    ".xpm": {
+      "fileProInfoType": "image\\/x-xpixmap",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xwd": {
+      "fileProInfoType": "image\\/x-xwindowdump",
+      "fileProInfoComment": "X Windows Dump"
+    }
+  },
+  {
+    ".eml": {
+      "fileProInfoType": "message\\/rfc822",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mime": {
+      "fileProInfoType": "message\\/rfc822",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mht": {
+      "fileProInfoType": "multipart\\/related",
+      "fileProInfoComment": "MIME Encapsulation of Aggregate HTML Documents"
+    }
+  },
+  {
+    ".mhtml": {
+      "fileProInfoType": "multipart\\/related",
+      "fileProInfoComment": "MIME Encapsulation of Aggregate HTML Documents"
+    }
+  },
+  {
+    ".igs": {
+      "fileProInfoType": "model\\/iges",
+      "fileProInfoComment": "Initial Graphics Exchange Specification Format"
+    }
+  },
+  {
+    ".iges": {
+      "fileProInfoType": "model\\/iges",
+      "fileProInfoComment": "Initial Graphics Exchange Specification Format"
+    }
+  },
+  {
+    ".msh": {
+      "fileProInfoType": "model\\/mesh",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mesh": {
+      "fileProInfoType": "model\\/mesh",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".silo": {
+      "fileProInfoType": "model\\/mesh",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dwf": {
+      "fileProInfoType": "model\\/vnd.dwf",
+      "fileProInfoComment": "AutoCAD Design Web Format"
+    }
+  },
+  {
+    ".dwfx": {
+      "fileProInfoType": "model\\/vnd.dwfx+xps",
+      "fileProInfoComment": "AutoCAD Design Web Format"
+    }
+  },
+  {
+    ".gdl": {
+      "fileProInfoType": "model\\/vnd.gdl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gtw": {
+      "fileProInfoType": "model\\/vnd.gtw",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mts": {
+      "fileProInfoType": "model\\/vnd.mts",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vtu": {
+      "fileProInfoType": "model\\/vnd.vtu",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wrl": {
+      "fileProInfoType": "model\\/vrml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vrml": {
+      "fileProInfoType": "model\\/vrml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dif": {
+      "fileProInfoType": "application\\/dif+xml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".as": {
+      "fileProInfoType": "text\\/x-actionscript",
+      "fileProInfoComment": "ActionScript source code"
+    }
+  },
+  {
+    ".ada": {
+      "fileProInfoType": "text\\/x-ada",
+      "fileProInfoComment": "Ada source code"
+    }
+  },
+  {
+    ".adb": {
+      "fileProInfoType": "text\\/x-ada",
+      "fileProInfoComment": "Ada source code"
+    }
+  },
+  {
+    ".ads": {
+      "fileProInfoType": "text\\/x-ada",
+      "fileProInfoComment": "Ada source code"
+    }
+  },
+  {
+    ".applescript": {
+      "fileProInfoType": "text\\/x-applescript",
+      "fileProInfoComment": "AppleScript source code"
+    }
+  },
+  {
+    ".asp": {
+      "fileProInfoType": "text\\/asp",
+      "fileProInfoComment": "Active Server Page"
+    }
+  },
+  {
+    ".aspx": {
+      "fileProInfoType": "text\\/aspdotnet",
+      "fileProInfoComment": "ASP .NET"
+    }
+  },
+  {
+    ".aj": {
+      "fileProInfoType": "text\\/x-aspectj",
+      "fileProInfoComment": "AspectJ source code"
+    }
+  },
+  {
+    ".s": {
+      "fileProInfoType": "text\\/x-assembly",
+      "fileProInfoComment": "Assembler source code"
+    }
+  },
+  {
+    ".S": {
+      "fileProInfoType": "text\\/x-assembly",
+      "fileProInfoComment": "Assembler source code"
+    }
+  },
+  {
+    ".asm": {
+      "fileProInfoType": "text\\/x-assembly",
+      "fileProInfoComment": "Assembler source code"
+    }
+  },
+  {
+    ".ics": {
+      "fileProInfoType": "text\\/calendar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ifb": {
+      "fileProInfoType": "text\\/calendar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".config": {
+      "fileProInfoType": "text\\/x-config",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".conf": {
+      "fileProInfoType": "text\\/x-config",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cfg": {
+      "fileProInfoType": "text\\/x-config",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xconf": {
+      "fileProInfoType": "text\\/x-config",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".css": {
+      "fileProInfoType": "text\\/css",
+      "fileProInfoComment": "Cascading Style Sheet"
+    }
+  },
+  {
+    ".csv": {
+      "fileProInfoType": "text\\/csv",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".html": {
+      "fileProInfoType": "text\\/html",
+      "fileProInfoComment": "HyperText Markup Language"
+    }
+  },
+  {
+    ".htm": {
+      "fileProInfoType": "text\\/html",
+      "fileProInfoComment": "HyperText Markup Language"
+    }
+  },
+  {
+    "Makefile": {
+      "fileProInfoType": "text\\/x-makefile",
+      "fileProInfoComment": "Makefile build file"
+    }
+  },
+  {
+    "GNUMakefile": {
+      "fileProInfoType": "text\\/x-makefile",
+      "fileProInfoComment": "Makefile build file"
+    }
+  },
+  {
+    ".txt": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".text": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".def": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".list": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".in": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    "INSTALL": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    "KEYS": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    "LICENSE": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    "NOTICE": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    "README": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    "abs-linkmap": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    "abs-menulinks": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".aart": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ac": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".am": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".apt": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".bsh": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".classpath": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cnd": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cwiki": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".data": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dcl": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dsp": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dsw": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".egrm": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ent": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ft": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fn": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fv": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".grm": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".g": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".htaccess": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".handlers": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".htc": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ihtml": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jmx": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".junit": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jx": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".manifest": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m4": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mf": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".MF": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".meta": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mdo": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".n3": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pen": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pod": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pom": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".project": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rng": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rnx": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".roles": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".schemas": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tld": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".types": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vm": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vsl": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wsdd": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xargs": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xcat": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xegrm": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xgrm": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xlex": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xlog": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xmap": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xroles": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xsamples": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xsp": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xtest": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xweb": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".xwelcome": {
+      "fileProInfoType": "text\\/plain",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dsc": {
+      "fileProInfoType": "text\\/prs.lines.tag",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".rtx": {
+      "fileProInfoType": "text\\/richtext",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sgml": {
+      "fileProInfoType": "text\\/sgml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".sgm": {
+      "fileProInfoType": "text\\/sgml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".tsv": {
+      "fileProInfoType": "text\\/tab-separated-values",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".t": {
+      "fileProInfoType": "text\\/troff",
+      "fileProInfoComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".tr": {
+      "fileProInfoType": "text\\/troff",
+      "fileProInfoComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".roff": {
+      "fileProInfoType": "text\\/troff",
+      "fileProInfoComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".nroff": {
+      "fileProInfoType": "text\\/troff",
+      "fileProInfoComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".man": {
+      "fileProInfoType": "text\\/troff",
+      "fileProInfoComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".me": {
+      "fileProInfoType": "text\\/troff",
+      "fileProInfoComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".ms": {
+      "fileProInfoType": "text\\/troff",
+      "fileProInfoComment": "Roff\\/nroff\\/troff\\/groff Unformatted Manual Page (UNIX)"
+    }
+  },
+  {
+    ".uri": {
+      "fileProInfoType": "text\\/uri-list",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".uris": {
+      "fileProInfoType": "text\\/uri-list",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".urls": {
+      "fileProInfoType": "text\\/uri-list",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".curl": {
+      "fileProInfoType": "text\\/vnd.curl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".dcurl": {
+      "fileProInfoType": "text\\/vnd.curl.dcurl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".scurl": {
+      "fileProInfoType": "text\\/vnd.curl.scurl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mcurl": {
+      "fileProInfoType": "text\\/vnd.curl.mcurl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fly": {
+      "fileProInfoType": "text\\/vnd.fly",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".flx": {
+      "fileProInfoType": "text\\/vnd.fmi.flexstor",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".gv": {
+      "fileProInfoType": "text\\/vnd.graphviz",
+      "fileProInfoComment": "Graphviz Graph Visualization Software"
+    }
+  },
+  {
+    ".3dml": {
+      "fileProInfoType": "text\\/vnd.in3d.3dml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".spot": {
+      "fileProInfoType": "text\\/vnd.in3d.spot",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".anpa": {
+      "fileProInfoType": "text\\/vnd.iptc.anpa",
+      "fileProInfoComment": "American Newspaper Publishers Association Wire Feeds"
+    }
+  },
+  {
+    ".jad": {
+      "fileProInfoType": "text\\/vnd.sun.j2me.app-descriptor",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wml": {
+      "fileProInfoType": "text\\/vnd.wap.wml",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wmls": {
+      "fileProInfoType": "text\\/vnd.wap.wmlscript",
+      "fileProInfoComment": "WML Script"
+    }
+  },
+  {
+    ".vtt": {
+      "fileProInfoType": "text\\/vtt",
+      "fileProInfoComment": "Web Video Text Tracks Format"
+    }
+  },
+  {
+    ".awk": {
+      "fileProInfoType": "text\\/x-awk",
+      "fileProInfoComment": "AWK script"
+    }
+  },
+  {
+    ".bas": {
+      "fileProInfoType": "text\\/x-basic",
+      "fileProInfoComment": "Basic source code"
+    }
+  },
+  {
+    ".Bas": {
+      "fileProInfoType": "text\\/x-basic",
+      "fileProInfoComment": "Basic source code"
+    }
+  },
+  {
+    ".BAS": {
+      "fileProInfoType": "text\\/x-basic",
+      "fileProInfoComment": "Basic source code"
+    }
+  },
+  {
+    ".hpp": {
+      "fileProInfoType": "text\\/x-c++hdr",
+      "fileProInfoComment": "C++ source code header"
+    }
+  },
+  {
+    ".hxx": {
+      "fileProInfoType": "text\\/x-c++hdr",
+      "fileProInfoComment": "C++ source code header"
+    }
+  },
+  {
+    ".hh": {
+      "fileProInfoType": "text\\/x-c++hdr",
+      "fileProInfoComment": "C++ source code header"
+    }
+  },
+  {
+    ".H": {
+      "fileProInfoType": "text\\/x-c++hdr",
+      "fileProInfoComment": "C++ source code header"
+    }
+  },
+  {
+    ".h++": {
+      "fileProInfoType": "text\\/x-c++hdr",
+      "fileProInfoComment": "C++ source code header"
+    }
+  },
+  {
+    ".hp": {
+      "fileProInfoType": "text\\/x-c++hdr",
+      "fileProInfoComment": "C++ source code header"
+    }
+  },
+  {
+    ".HPP": {
+      "fileProInfoType": "text\\/x-c++hdr",
+      "fileProInfoComment": "C++ source code header"
+    }
+  },
+  {
+    ".cpp": {
+      "fileProInfoType": "text\\/x-c++src",
+      "fileProInfoComment": "C++ source code"
+    }
+  },
+  {
+    ".cxx": {
+      "fileProInfoType": "text\\/x-c++src",
+      "fileProInfoComment": "C++ source code"
+    }
+  },
+  {
+    ".cc": {
+      "fileProInfoType": "text\\/x-c++src",
+      "fileProInfoComment": "C++ source code"
+    }
+  },
+  {
+    ".C": {
+      "fileProInfoType": "text\\/x-c++src",
+      "fileProInfoComment": "C++ source code"
+    }
+  },
+  {
+    ".c++": {
+      "fileProInfoType": "text\\/x-c++src",
+      "fileProInfoComment": "C++ source code"
+    }
+  },
+  {
+    ".CPP": {
+      "fileProInfoType": "text\\/x-c++src",
+      "fileProInfoComment": "C++ source code"
+    }
+  },
+  {
+    ".cgi": {
+      "fileProInfoType": "text\\/x-cgi",
+      "fileProInfoComment": "CGI script"
+    }
+  },
+  {
+    ".h": {
+      "fileProInfoType": "text\\/x-chdr",
+      "fileProInfoComment": "C source code header"
+    }
+  },
+  {
+    ".clj": {
+      "fileProInfoType": "text\\/x-clojure",
+      "fileProInfoComment": "Clojure source code"
+    }
+  },
+  {
+    ".coffee": {
+      "fileProInfoType": "text\\/x-coffeescript",
+      "fileProInfoComment": "CoffeeScript source code"
+    }
+  },
+  {
+    ".c": {
+      "fileProInfoType": "text\\/x-csrc",
+      "fileProInfoComment": "C source code"
+    }
+  },
+  {
+    ".cs": {
+      "fileProInfoType": "text\\/x-csharp",
+      "fileProInfoComment": "C# source code"
+    }
+  },
+  {
+    ".cbl": {
+      "fileProInfoType": "text\\/x-cobol",
+      "fileProInfoComment": "COBOL source code"
+    }
+  },
+  {
+    ".Cbl": {
+      "fileProInfoType": "text\\/x-cobol",
+      "fileProInfoComment": "COBOL source code"
+    }
+  },
+  {
+    ".CBL": {
+      "fileProInfoType": "text\\/x-cobol",
+      "fileProInfoComment": "COBOL source code"
+    }
+  },
+  {
+    ".cob": {
+      "fileProInfoType": "text\\/x-cobol",
+      "fileProInfoComment": "COBOL source code"
+    }
+  },
+  {
+    ".Cob": {
+      "fileProInfoType": "text\\/x-cobol",
+      "fileProInfoComment": "COBOL source code"
+    }
+  },
+  {
+    ".COB": {
+      "fileProInfoType": "text\\/x-cobol",
+      "fileProInfoComment": "COBOL source code"
+    }
+  },
+  {
+    ".cfm": {
+      "fileProInfoType": "text\\/x-coldfusion",
+      "fileProInfoComment": "ColdFusion source code"
+    }
+  },
+  {
+    ".cfml": {
+      "fileProInfoType": "text\\/x-coldfusion",
+      "fileProInfoComment": "ColdFusion source code"
+    }
+  },
+  {
+    ".cfc": {
+      "fileProInfoType": "text\\/x-coldfusion",
+      "fileProInfoComment": "ColdFusion source code"
+    }
+  },
+  {
+    ".cl": {
+      "fileProInfoType": "text\\/x-common-lisp",
+      "fileProInfoComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".jl": {
+      "fileProInfoType": "text\\/x-common-lisp",
+      "fileProInfoComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".lisp": {
+      "fileProInfoType": "text\\/x-common-lisp",
+      "fileProInfoComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".lsp": {
+      "fileProInfoType": "text\\/x-common-lisp",
+      "fileProInfoComment": "Common Lisp source code"
+    }
+  },
+  {
+    ".diff": {
+      "fileProInfoType": "text\\/x-diff",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".patch": {
+      "fileProInfoType": "text\\/x-diff",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".e": {
+      "fileProInfoType": "text\\/x-eiffel",
+      "fileProInfoComment": "Eiffel source code"
+    }
+  },
+  {
+    ".el": {
+      "fileProInfoType": "text\\/x-emacs-lisp",
+      "fileProInfoComment": "Emacs Lisp source code"
+    }
+  },
+  {
+    ".erl": {
+      "fileProInfoType": "text\\/x-erlang",
+      "fileProInfoComment": "Erlang source code"
+    }
+  },
+  {
+    ".exp": {
+      "fileProInfoType": "text\\/x-expect",
+      "fileProInfoComment": "Expect Script"
+    }
+  },
+  {
+    ".4th": {
+      "fileProInfoType": "text\\/x-forth",
+      "fileProInfoComment": "Forth source code"
+    }
+  },
+  {
+    ".f": {
+      "fileProInfoType": "text\\/x-fortran",
+      "fileProInfoComment": "Fortran source code"
+    }
+  },
+  {
+    ".F": {
+      "fileProInfoType": "text\\/x-fortran",
+      "fileProInfoComment": "Fortran source code"
+    }
+  },
+  {
+    ".for": {
+      "fileProInfoType": "text\\/x-fortran",
+      "fileProInfoComment": "Fortran source code"
+    }
+  },
+  {
+    ".f77": {
+      "fileProInfoType": "text\\/x-fortran",
+      "fileProInfoComment": "Fortran source code"
+    }
+  },
+  {
+    ".f90": {
+      "fileProInfoType": "text\\/x-fortran",
+      "fileProInfoComment": "Fortran source code"
+    }
+  },
+  {
+    ".go": {
+      "fileProInfoType": "text\\/x-go",
+      "fileProInfoComment": "Go source code"
+    }
+  },
+  {
+    ".groovy": {
+      "fileProInfoType": "text\\/x-groovy",
+      "fileProInfoComment": "Groovy source code"
+    }
+  },
+  {
+    ".hs": {
+      "fileProInfoType": "text\\/x-haskell",
+      "fileProInfoComment": "Haskell source code"
+    }
+  },
+  {
+    ".lhs": {
+      "fileProInfoType": "text\\/x-haskell",
+      "fileProInfoComment": "Haskell source code"
+    }
+  },
+  {
+    ".idl": {
+      "fileProInfoType": "text\\/x-idl",
+      "fileProInfoComment": "Inteface Definition Language"
+    }
+  },
+  {
+    ".ini": {
+      "fileProInfoType": "text\\/x-ini",
+      "fileProInfoComment": "Configuration file"
+    }
+  },
+  {
+    ".java": {
+      "fileProInfoType": "text\\/x-java-source",
+      "fileProInfoComment": "Java source code"
+    }
+  },
+  {
+    ".properties": {
+      "fileProInfoType": "text\\/x-java-properties",
+      "fileProInfoComment": "Java Properties"
+    }
+  },
+  {
+    ".jsp": {
+      "fileProInfoType": "text\\/x-jsp",
+      "fileProInfoComment": "Java Server Page"
+    }
+  },
+  {
+    ".less": {
+      "fileProInfoType": "text\\/x-less",
+      "fileProInfoComment": "LESS source code"
+    }
+  },
+  {
+    ".l": {
+      "fileProInfoType": "text\\/x-lex",
+      "fileProInfoComment": "Lex\\/Flex source code"
+    }
+  },
+  {
+    ".log": {
+      "fileProInfoType": "text\\/x-log",
+      "fileProInfoComment": "application log"
+    }
+  },
+  {
+    ".lua": {
+      "fileProInfoType": "text\\/x-lua",
+      "fileProInfoComment": "Lua source code"
+    }
+  },
+  {
+    ".ml": {
+      "fileProInfoType": "text\\/x-ml",
+      "fileProInfoComment": "ML source code"
+    }
+  },
+  {
+    ".mat": {
+      "fileProInfoType": "application\\/x-matlab-data",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m3": {
+      "fileProInfoType": "text\\/x-modula",
+      "fileProInfoComment": "Modula source code"
+    }
+  },
+  {
+    ".i3": {
+      "fileProInfoType": "text\\/x-modula",
+      "fileProInfoComment": "Modula source code"
+    }
+  },
+  {
+    ".mg": {
+      "fileProInfoType": "text\\/x-modula",
+      "fileProInfoComment": "Modula source code"
+    }
+  },
+  {
+    ".ig": {
+      "fileProInfoType": "text\\/x-modula",
+      "fileProInfoComment": "Modula source code"
+    }
+  },
+  {
+    ".m": {
+      "fileProInfoType": "text\\/x-objcsrc",
+      "fileProInfoComment": "Objective-C source code"
+    }
+  },
+  {
+    ".ocaml": {
+      "fileProInfoType": "text\\/x-ocaml",
+      "fileProInfoComment": "Ocaml source code"
+    }
+  },
+  {
+    ".mli": {
+      "fileProInfoType": "text\\/x-ocaml",
+      "fileProInfoComment": "Ocaml source code"
+    }
+  },
+  {
+    ".p": {
+      "fileProInfoType": "text\\/x-pascal",
+      "fileProInfoComment": "Pascal source code"
+    }
+  },
+  {
+    ".pp": {
+      "fileProInfoType": "text\\/x-pascal",
+      "fileProInfoComment": "Pascal source code"
+    }
+  },
+  {
+    ".pas": {
+      "fileProInfoType": "text\\/x-pascal",
+      "fileProInfoComment": "Pascal source code"
+    }
+  },
+  {
+    ".PAS": {
+      "fileProInfoType": "text\\/x-pascal",
+      "fileProInfoComment": "Pascal source code"
+    }
+  },
+  {
+    ".dpr": {
+      "fileProInfoType": "text\\/x-pascal",
+      "fileProInfoComment": "Pascal source code"
+    }
+  },
+  {
+    ".pl": {
+      "fileProInfoType": "text\\/x-perl",
+      "fileProInfoComment": "Perl script"
+    }
+  },
+  {
+    ".pm": {
+      "fileProInfoType": "text\\/x-perl",
+      "fileProInfoComment": "Perl script"
+    }
+  },
+  {
+    ".al": {
+      "fileProInfoType": "text\\/x-perl",
+      "fileProInfoComment": "Perl script"
+    }
+  },
+  {
+    ".perl": {
+      "fileProInfoType": "text\\/x-perl",
+      "fileProInfoComment": "Perl script"
+    }
+  },
+  {
+    ".php": {
+      "fileProInfoType": "text\\/x-php",
+      "fileProInfoComment": "PHP script"
+    }
+  },
+  {
+    ".php3": {
+      "fileProInfoType": "text\\/x-php",
+      "fileProInfoComment": "PHP script"
+    }
+  },
+  {
+    ".php4": {
+      "fileProInfoType": "text\\/x-php",
+      "fileProInfoComment": "PHP script"
+    }
+  },
+  {
+    ".pro": {
+      "fileProInfoType": "text\\/x-prolog",
+      "fileProInfoComment": "Prolog source code"
+    }
+  },
+  {
+    ".py": {
+      "fileProInfoType": "text\\/x-python",
+      "fileProInfoComment": "Python script"
+    }
+  },
+  {
+    ".rest": {
+      "fileProInfoType": "text\\/x-rst",
+      "fileProInfoComment": "reStructuredText source code"
+    }
+  },
+  {
+    ".rst": {
+      "fileProInfoType": "text\\/x-rst",
+      "fileProInfoComment": "reStructuredText source code"
+    }
+  },
+  {
+    ".restx": {
+      "fileProInfoType": "text\\/x-rst",
+      "fileProInfoComment": "reStructuredText source code"
+    }
+  },
+  {
+    ".rexx": {
+      "fileProInfoType": "text\\/x-rexx",
+      "fileProInfoComment": "Rexx source code"
+    }
+  },
+  {
+    ".rb": {
+      "fileProInfoType": "text\\/x-ruby",
+      "fileProInfoComment": "Ruby source code"
+    }
+  },
+  {
+    ".scala": {
+      "fileProInfoType": "text\\/x-scala",
+      "fileProInfoComment": "Scala source code"
+    }
+  },
+  {
+    ".scm": {
+      "fileProInfoType": "text\\/x-scheme",
+      "fileProInfoComment": "Scheme source code"
+    }
+  },
+  {
+    ".sed": {
+      "fileProInfoType": "text\\/x-sed",
+      "fileProInfoComment": "Sed code"
+    }
+  },
+  {
+    ".sql": {
+      "fileProInfoType": "text\\/x-sql",
+      "fileProInfoComment": "SQL code"
+    }
+  },
+  {
+    ".etx": {
+      "fileProInfoType": "text\\/x-setext",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".st": {
+      "fileProInfoType": "text\\/x-stsrc",
+      "fileProInfoComment": "Smalltalk source code"
+    }
+  },
+  {
+    ".itk": {
+      "fileProInfoType": "text\\/x-tcl",
+      "fileProInfoComment": "Tcl script"
+    }
+  },
+  {
+    ".tcl": {
+      "fileProInfoType": "text\\/x-tcl",
+      "fileProInfoComment": "Tcl script"
+    }
+  },
+  {
+    ".tk": {
+      "fileProInfoType": "text\\/x-tcl",
+      "fileProInfoComment": "Tcl script"
+    }
+  },
+  {
+    ".uu": {
+      "fileProInfoType": "text\\/x-uuencode",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".cls": {
+      "fileProInfoType": "text\\/x-vbasic",
+      "fileProInfoComment": "Visual basic source code"
+    }
+  },
+  {
+    ".Cls": {
+      "fileProInfoType": "text\\/x-vbasic",
+      "fileProInfoComment": "Visual basic source code"
+    }
+  },
+  {
+    ".CLS": {
+      "fileProInfoType": "text\\/x-vbasic",
+      "fileProInfoComment": "Visual basic source code"
+    }
+  },
+  {
+    ".frm": {
+      "fileProInfoType": "text\\/x-vbasic",
+      "fileProInfoComment": "Visual basic source code"
+    }
+  },
+  {
+    ".Frm": {
+      "fileProInfoType": "text\\/x-vbasic",
+      "fileProInfoComment": "Visual basic source code"
+    }
+  },
+  {
+    ".FRM": {
+      "fileProInfoType": "text\\/x-vbasic",
+      "fileProInfoComment": "Visual basic source code"
+    }
+  },
+  {
+    ".vb": {
+      "fileProInfoType": "text\\/x-vbdotnet",
+      "fileProInfoComment": "VB.NET source code"
+    }
+  },
+  {
+    ".vbs": {
+      "fileProInfoType": "text\\/x-vbscript",
+      "fileProInfoComment": "VBScript source code"
+    }
+  },
+  {
+    ".vcs": {
+      "fileProInfoType": "text\\/x-vcalendar",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".vcf": {
+      "fileProInfoType": "text\\/x-vcard",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".v": {
+      "fileProInfoType": "text\\/x-verilog",
+      "fileProInfoComment": "Verilog source code"
+    }
+  },
+  {
+    ".vhd": {
+      "fileProInfoType": "text\\/x-vhdl",
+      "fileProInfoComment": "VHDL source code"
+    }
+  },
+  {
+    ".vhdl": {
+      "fileProInfoType": "text\\/x-vhdl",
+      "fileProInfoComment": "VHDL source code"
+    }
+  },
+  {
+    ".md": {
+      "fileProInfoType": "text\\/x-web-markdown",
+      "fileProInfoComment": "Markdown source code"
+    }
+  },
+  {
+    ".mdtext": {
+      "fileProInfoType": "text\\/x-web-markdown",
+      "fileProInfoComment": "Markdown source code"
+    }
+  },
+  {
+    ".mkd": {
+      "fileProInfoType": "text\\/x-web-markdown",
+      "fileProInfoComment": "Markdown source code"
+    }
+  },
+  {
+    ".markdown": {
+      "fileProInfoType": "text\\/x-web-markdown",
+      "fileProInfoComment": "Markdown source code"
+    }
+  },
+  {
+    ".y": {
+      "fileProInfoType": "text\\/x-yacc",
+      "fileProInfoComment": "Yacc\\/Bison source code"
+    }
+  },
+  {
+    ".yaml": {
+      "fileProInfoType": "text\\/x-yaml",
+      "fileProInfoComment": "YAML source code"
+    }
+  },
+  {
+    ".3gp": {
+      "fileProInfoType": "video\\/3gpp",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".3g2": {
+      "fileProInfoType": "video\\/3gpp2",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".h261": {
+      "fileProInfoType": "video\\/h261",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".h263": {
+      "fileProInfoType": "video\\/h263",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".h264": {
+      "fileProInfoType": "video\\/h264",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jpgv": {
+      "fileProInfoType": "video\\/jpeg",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mj2": {
+      "fileProInfoType": "video\\/mj2",
+      "fileProInfoComment": "JPEG 2000 Part 3 (Motion JPEG, MJ2)"
+    }
+  },
+  {
+    ".mjp2": {
+      "fileProInfoType": "video\\/mj2",
+      "fileProInfoComment": "JPEG 2000 Part 3 (Motion JPEG, MJ2)"
+    }
+  },
+  {
+    ".mp4": {
+      "fileProInfoType": "video\\/mp4",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mp4v": {
+      "fileProInfoType": "video\\/mp4",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpg4": {
+      "fileProInfoType": "video\\/mp4",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mpeg": {
+      "fileProInfoType": "video\\/mpeg",
+      "fileProInfoComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".mpg": {
+      "fileProInfoType": "video\\/mpeg",
+      "fileProInfoComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".mpe": {
+      "fileProInfoType": "video\\/mpeg",
+      "fileProInfoComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".m1v": {
+      "fileProInfoType": "video\\/mpeg",
+      "fileProInfoComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".m2v": {
+      "fileProInfoType": "video\\/mpeg",
+      "fileProInfoComment": "MPEG Movie Clip"
+    }
+  },
+  {
+    ".ogv": {
+      "fileProInfoType": "video\\/ogg",
+      "fileProInfoComment": "Ogg Vorbis Video"
+    }
+  },
+  {
+    ".drc": {
+      "fileProInfoType": "video\\/x-dirac",
+      "fileProInfoComment": "Ogg Packaged Dirac Video"
+    }
+  },
+  {
+    ".ogm": {
+      "fileProInfoType": "video\\/x-ogm",
+      "fileProInfoComment": "Ogg Packaged OGM Video"
+    }
+  },
+  {
+    ".qt": {
+      "fileProInfoType": "video\\/quicktime",
+      "fileProInfoComment": "QuickTime Video"
+    }
+  },
+  {
+    ".mov": {
+      "fileProInfoType": "video\\/quicktime",
+      "fileProInfoComment": "QuickTime Video"
+    }
+  },
+  {
+    ".fvt": {
+      "fileProInfoType": "video\\/vnd.fvt",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mxu": {
+      "fileProInfoType": "video\\/vnd.mpegurl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m4u": {
+      "fileProInfoType": "video\\/vnd.mpegurl",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".pyv": {
+      "fileProInfoType": "video\\/vnd.ms-playready.media.pyv",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".viv": {
+      "fileProInfoType": "video\\/vnd.vivo",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".f4v": {
+      "fileProInfoType": "video\\/x-f4v",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".flc": {
+      "fileProInfoType": "video\\/x-flc",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".fli": {
+      "fileProInfoType": "video\\/x-fli",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".flv": {
+      "fileProInfoType": "video\\/x-flv",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".jng": {
+      "fileProInfoType": "video\\/x-jng",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".m4v": {
+      "fileProInfoType": "video\\/x-m4v",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mng": {
+      "fileProInfoType": "video\\/x-mng",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".asf": {
+      "fileProInfoType": "video\\/x-ms-asf",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".asx": {
+      "fileProInfoType": "application\\/x-ms-asx",
+      "fileProInfoComment": "Windows Media Metafile"
+    }
+  },
+  {
+    ".wm": {
+      "fileProInfoType": "video\\/x-ms-wm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wmv": {
+      "fileProInfoType": "video\\/x-ms-wmv",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wmx": {
+      "fileProInfoType": "video\\/x-ms-wmx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".wvx": {
+      "fileProInfoType": "video\\/x-ms-wvx",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".avi": {
+      "fileProInfoType": "video\\/x-msvideo",
+      "fileProInfoComment": "Audio Video Interleave File"
+    }
+  },
+  {
+    ".movie": {
+      "fileProInfoType": "video\\/x-sgi-movie",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mkv": {
+      "fileProInfoType": "video\\/x-matroska",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".mka": {
+      "fileProInfoType": "audio\\/x-matroska",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".webm": {
+      "fileProInfoType": "video\\/webm",
+      "fileProInfoComment": ""
+    }
+  },
+  {
+    ".ice": {
+      "fileProInfoType": "x-conference\\/x-cooltalk",
+      "fileProInfoComment": "Cooltalk Audio"
+    }
+  },
+  {
+    ".fb2": {
+      "fileProInfoType": "application\\/x-fictionbook+xml",
+      "fileProInfoComment": "FictionBook document"
+    }
+  },
+  {
+    ".asciidoc": {
+      "fileProInfoType": "text\\/x-asciidoc",
+      "fileProInfoComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".adoc": {
+      "fileProInfoType": "text\\/x-asciidoc",
+      "fileProInfoComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".ad": {
+      "fileProInfoType": "text\\/x-asciidoc",
+      "fileProInfoComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".ad.txt": {
+      "fileProInfoType": "text\\/x-asciidoc",
+      "fileProInfoComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".adoc.txt": {
+      "fileProInfoType": "text\\/x-asciidoc",
+      "fileProInfoComment": "Asciidoc source code"
+    }
+  },
+  {
+    ".d": {
+      "fileProInfoType": "text\\/x-d",
+      "fileProInfoComment": "D source code"
+    }
+  },
+  {
+    ".haml": {
+      "fileProInfoType": "text\\/x-haml",
+      "fileProInfoComment": "HAML source code"
+    }
+  },
+  {
+    ".hx": {
+      "fileProInfoType": "text\\/x-haxe",
+      "fileProInfoComment": "Haxe source code"
+    }
+  },
+  {
+    ".r": {
+      "fileProInfoType": "text\\/x-rsrc",
+      "fileProInfoComment": "R source code"
+    }
+  }
+]
